@@ -1,0 +1,44 @@
+.main-container{
+    position: relative;
+}
+
+.question-section{
+    display: flex;
+}
+
+
+
+.question-container{
+    width: 50%;
+    padding: 1rem;
+}
+
+.stats-container{
+width: 50%;
+text-align: center;
+
+}
+
+.stats-container ul{
+    
+    
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.stats-container li{
+    list-style: none;
+}
+
+.hypothesis-container{
+    
+    margin-left: 50%;
+    max-width: 50%;
+    padding: 1rem;
+}
+
+.purpose-container{
+    width: 70%;
+margin: 0 auto;
+}
