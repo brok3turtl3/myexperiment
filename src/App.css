@@ -7,26 +7,56 @@
 
 .main-container{
   min-height: 100vh;
-  background-color: cadetblue;
+  
 }
 
 .p1{
   padding: 1rem;
+}
+.p2{
+  padding: 2rem;
+}
+
+.pb1{
+  padding-bottom: 1rem;
+}
+.pb2{
+  padding-bottom: 2rem;
 }
 
 
 .m1{
   margin: 1rem;
 }
+.m2{
+  margin: 2rem;
+}
 .mt1{
   margin-top: 1rem;
+}
+.mt2{
+  margin-top: 2rem;
 }
 .mb1{
   margin-bottom: 1rem;
 }
+.mb2{
+  margin-bottom: 2rem;
+}
+.ml1{
+  margin-left: 1rem;
+}
+.ml2{
+  margin-left: 2rem
+}
 
 .t-normal{
   font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.t-medium{
+  font-size: 1.25rem;
 }
 
 .t-large{
@@ -35,6 +65,10 @@
 
 .t-xlarge{
   font-size: 3rem;
+}
+
+.bold{
+  font-weight: bold;
 }
 
 
