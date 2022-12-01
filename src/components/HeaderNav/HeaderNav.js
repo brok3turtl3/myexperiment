@@ -15,7 +15,8 @@ const HeaderNav = () => {
         <div className="navigation">
             <ul>
                 <li><Link to='/'>Home</Link></li>
-                <li><Link to='/health'>Health</Link></li>
+                <li><Link to='/blog'>Blog</Link></li>
+                <li><Link to='/updates'>Updates</Link></li>
                 <li><Link to='/books'>Books</Link></li>
                 <li><Link to='/data'>Data</Link></li>
             </ul>
