@@ -19,6 +19,9 @@ const Landing = () => {
     </ul>
 </div>
 </setion>
+<section className='stats-section'>
+
+</section>
 
 <section className='hypothesis-section mt2'>
 <div className="hypothesis-container">

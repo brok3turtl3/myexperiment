@@ -2,6 +2,7 @@ import React, { Fragment, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import HeaderNav from './components/HeaderNav/HeaderNav'
+import Footer from './components/Footer';
 
 import './app.css';
 import './components/HeaderNav/HeaderNav'
@@ -14,7 +15,7 @@ import Blog from './components/Blog/Blog';
 const App =() => {
   return (
     <Router>
-				<div className='main-container'>
+				<Fragment>
 					
 					<HeaderNav />
 
@@ -25,9 +26,10 @@ const App =() => {
           <Route path='/updates' element={<Updates />}></Route>
           <Route path='/blog' element={<Blog />}></Route>
           </Routes>
+          <Footer />
           
           
-          </div>
+          </Fragment>
           </Router>
   );
 }
