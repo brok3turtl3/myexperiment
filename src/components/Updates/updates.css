@@ -1,0 +1,50 @@
+.update-container{
+    background: url(./updates.jpg) no-repeat center
+		center/cover;
+	position: relative;
+	height: 100vh;
+    
+}
+
+.update-overlay{
+    height: 100%;
+	width: 100%;
+	position: absolute;
+
+	
+	left: 0;
+	background-color: rgba(24, 25, 26, 0.5);
+	overflow: auto;
+	
+}
+
+.update-inner{
+	margin: 100px auto 0;
+	margin-top: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 80%
+}
+
+.update-card-container{
+    background-color: rgba(243,239,224, 0.7);
+    width: 600px;
+    min-width: 400px;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 10px;
+    
+
+}
+
+.update-intro-container{
+	width: 100%;
+	
+}
+
+.update-intro{
+	width: 60%;
+	color: beige;
+	margin: 0 auto;
+}

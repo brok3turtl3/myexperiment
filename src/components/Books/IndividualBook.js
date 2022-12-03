@@ -36,9 +36,13 @@ const IndividualBook = ({
 </div>
 
 <div className="ratings">
-    <span className='t-medium bold mt-1'>Rating: <span>{rating}</span></span>
-    <hr />
-    <span className='t-medium bold'>Difficulty: <span>{difficulty}</span></span>
+    <span className='t-medium bold'>Rating: <span className='yellow'>{rating}</span></span>
+    
+    <span className='t-medium bold mr1'>Difficulty: <span className='yellow'>{difficulty}</span></span>
+    </div>
+
+    <div className="comments pt1">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada augue id rutrum mollis. Morbi ut odio in tellus laoreet dignissim.</p>
     </div>
  
   </div>

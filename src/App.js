@@ -1,8 +1,8 @@
-import React, { Fragment, useEffect } from 'react';
+import React, { Fragment } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import HeaderNav from './components/HeaderNav/HeaderNav'
-import Footer from './components/Footer';
+
 
 import './app.css';
 import './components/HeaderNav/HeaderNav'
@@ -21,12 +21,12 @@ const App =() => {
 
           <Routes>
           <Route path='/' element={<Landing />} />
-          <Route path='/books' element={<Books />}></Route>
+          <Route path='/books' element={<Books />} />
           <Route path='/data' element={<Data />}></Route>
           <Route path='/updates' element={<Updates />}></Route>
           <Route path='/blog' element={<Blog />}></Route>
           </Routes>
-          <Footer />
+          
           
           
           </Fragment>

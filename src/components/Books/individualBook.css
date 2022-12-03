@@ -1,8 +1,10 @@
 .card-container{
     background-color: rgba(243,239,224, 0.7);
+    width: 400px;
     max-width: 400px;
     margin: 2rem auto;
     padding: 1rem;
+    border-radius: 10px;
     
 
 }
@@ -27,4 +29,9 @@
     
     width: 60%;
     margin: 0 auto;
+}
+
+.ratings{
+    display: flex;
+    justify-content: space-between;
 }

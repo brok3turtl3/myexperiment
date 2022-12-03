@@ -20,6 +20,14 @@
   padding: 2rem;
 }
 
+.pt1{
+  padding-top: 1rem;
+}
+
+.pt2{
+  padding-top: 2rem;
+}
+
 .pb1{
   padding-bottom: 1rem;
 }
@@ -45,6 +53,9 @@
 }
 .mb2{
   margin-bottom: 2rem;
+}
+.mr1{
+  margin-right: 4rem;
 }
 .ml1{
   margin-left: 1rem;
@@ -72,6 +83,10 @@
 
 .bold{
   font-weight: bold;
+}
+
+.yellow{
+  color: yellow;
 }
 
 
