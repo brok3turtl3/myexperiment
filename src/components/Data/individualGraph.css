@@ -1,0 +1,25 @@
+.data-card-container{
+    background-color: rgba(243,239,224, 0.7);
+    width: 600px;
+    min-width: 400px;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 10px;
+    
+
+}
+
+.data-banner{
+	text-align: center;
+}
+
+.data-graph{
+	text-align: center;
+}
+
+.data-graph img{
+    width: 90%;
+	margin: 0 auto;
+    height: auto;
+}

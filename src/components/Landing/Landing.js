@@ -39,7 +39,7 @@ const Landing = () => {
 </section>
 
 <section className='purpose-section mt2'>
-<div className="purpose-container">
+<div className="purpose-container ml1">
     <p className="t-large bold mb1 p1">Follow me on my journey - Time to get the data!</p>
     <hr></hr>
     <p className='t-normal mt1 p1'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada augue id rutrum mollis. Morbi ut odio in tellus laoreet dignissim. Morbi ut erat in sem pharetra scelerisque maximus eu ante. Quisque accumsan urna pretium dolor iaculis finibus. Aliquam erat volutpat.</p>
