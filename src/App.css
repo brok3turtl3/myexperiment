@@ -34,6 +34,18 @@
 .pb2{
   padding-bottom: 2rem;
 }
+.pl1{
+  padding-left: 1rem;
+}
+.pl2{
+  padding-left: 2rem;
+}
+.pr1{
+  padding-right: 1rem;
+}
+.pr2{
+  padding-right: 2rem;
+}
 
 
 .m1{
@@ -87,6 +99,10 @@
 
 .yellow{
   color: yellow;
+}
+
+.beige{
+  color: beige;
 }
 
 
