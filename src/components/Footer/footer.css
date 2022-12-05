@@ -2,11 +2,8 @@
     background-color: #434242;
     min-height: 50px;
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
 }
 
-.twitter {
-    height: 25px;
-    color: beige;
-}

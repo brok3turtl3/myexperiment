@@ -42,7 +42,7 @@ const IndividualBook = ({
     </div>
 
     <div className="comments pt1">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada augue id rutrum mollis. Morbi ut odio in tellus laoreet dignissim.</p>
+      <p>{comments}</p>
     </div>
  
   </div>

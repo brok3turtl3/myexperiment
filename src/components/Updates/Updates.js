@@ -13,18 +13,31 @@ const Updates = () => {
       <div className='update-card-container m2'>
 
     <div className='update-banner'>
-     <h1>Week 8 Update</h1> 
+     <p className='t-medium bold'>Week 12 Update (First update on MyExperiment.ca)</p>
+     <br /> 
 
-    <h2>Dec 4th 2022</h2>
+    <p className='t-medium bold pb1'>Dec 5th 2022</p>
 </div>
 
 <hr />
 
 
     <div className="comments pt1">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae sagittis purus, in sagittis ipsum. Vivamus nec fermentum libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam auctor cursus felis, sed pulvinar dui dictum ac. Nunc lobortis mauris ipsum, ac convallis odio vestibulum quis. Nunc ullamcorper gravida dignissim. Donec elementum egestas egestas. Aliquam nec odio vitae nunc dictum elementum quis eu urna. Donec fringilla eros diam, a mattis augue porta non. Sed convallis turpis id sem varius vestibulum. Nulla eget tincidunt tellus, a feugiat sem. Phasellus scelerisque, lectus et maximus pharetra, orci mauris aliquam lectus, eget dignissim augue sapien id elit. Duis fermentum mauris nec risus feugiat pulvinar. Duis nec congue odio. Pellentesque interdum interdum odio, ac fringilla ligula sollicitudin sed.</p>
-<br></br>
-<p>Aenean viverra libero at dui consectetur pretium. Vestibulum id risus sapien. Curabitur et leo in nisl lobortis imperdiet eget cursus arcu. In tincidunt urna tincidunt est placerat, non pharetra mi finibus. Duis sit amet leo vitae odio elementum consectetur eget quis nibh. Maecenas id nibh facilisis justo suscipit eleifend at vel tortor. Vestibulum vitae tincidunt mauris, at sodales risus. Pellentesque lobortis finibus arcu, quis pellentesque odio fermentum a. Donec cursus hendrerit risus, in ullamcorper justo. Nam ultricies, purus convallis blandit tincidunt, ligula diam sodales enim, et ultricies odio lectus eget risus. Nullam faucibus vel lacus id finibus. Praesent ut purus convallis ex vestibulum porttitor. Aliquam in nisi at nisi convallis convallis at nec sapien.</p>
+      <p className='t-medium bold'>The Site is Live!</p>
+      <br />
+      <p>The website is up and now providing public accountability for my progress. This journey actually started back in mid September but I did not have the skillset to build the website yet. I have kept a journal of all my activities since I decided to do all of this and I will slowly but surely backfill the Updates section.</p>
+      <br />
+      <p>It could probably be a little more polished and have better background information but I was excited to get it up and putting my story out there. I will be fine tuning the esthetics and adding more content frequently as well as posting these weekly updates summarizing my progress.</p>
+<br />
+      <p className='t-medium bold'>Covid is Behind Me</p>
+      <br />
+      <p>I am finally feeling completely normal again. After being be ridden for the first two weeks of November and dealing with some significant residual effects the rest of the month I can finally say that this week I feel like my old self again. It definitely put a dent in my momentum with the experiment but I am back work at my goals with 100% effort and motivation.</p>
+      <br />
+      <p className='t-medium bold'>Am I Really This Fat!?</p>
+      <br />
+      <p>I decided to track my body fat percentage. Well, truthfully, I was always planning on tracking it but was not ready to see it for myself until I had lost a little bit. My fears were well founded. I came in this morning at an easily obese 32.69%. If I was to make an educated guess where I was in September I would say close to 40%. A VERY unhealthy place to be.</p>
+
+      
     </div>
  
   </div>
