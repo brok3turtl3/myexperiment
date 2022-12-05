@@ -3,20 +3,18 @@
 		center/cover;
 	position: relative;
 	width: 100%;
-	margin-top: 100px;
 	height: 100vh;
-	
-	
-    
-}
+	overflow: auto;
+	}
 
 .books-overlay{
-    height: 100%;
+   
 	width: 100%;
 	position: absolute;
 	left: 0;
 	background-color: rgba(24, 25, 26, 0.5);
 	
+	padding-top: 100px;
 	
 }
 
@@ -25,7 +23,8 @@
 	display: flex;
 	flex-wrap: wrap;
 	width: 80%;
-	overflow: auto;
+	
+	
 }
 
 .books-intro-container{
@@ -37,10 +36,20 @@
 
 .books-intro{
 	min-width: 400px;
-	width: 60%;
+	width: 70%;
 	
 	color: beige;
 	margin: 0 auto;
+}
+
+@media screen and (max-width: 480px) {
+	.books-intro{
+		/* min-width: 400px; */
+		/* width: 80%; */
+		min-width: 80%;
+		color: beige;
+		margin: 0 auto;
+	}
 }
 
 

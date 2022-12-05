@@ -28,6 +28,8 @@ const Updates = () => {
       <p>The website is up and now providing public accountability for my progress. This journey actually started back in mid September but I did not have the skillset to build the website yet. I have kept a journal of all my activities since I decided to do all of this and I will slowly but surely backfill the Updates section.</p>
       <br />
       <p>It could probably be a little more polished and have better background information but I was excited to get it up and putting my story out there. I will be fine tuning the esthetics and adding more content frequently as well as posting these weekly updates summarizing my progress.</p>
+      <br />
+      <p>I have put up some of the tracking charts and data in the Data section but will be adding more over the next week. I have 32 data points that I am tracking and will maybe eventually publish them all but for now I just want to make sure I get enough up to show my generl progress.</p>
 <br />
       <p className='t-medium bold'>Covid is Behind Me</p>
       <br />
@@ -36,7 +38,14 @@ const Updates = () => {
       <p className='t-medium bold'>Am I Really This Fat!?</p>
       <br />
       <p>I decided to track my body fat percentage. Well, truthfully, I was always planning on tracking it but was not ready to see it for myself until I had lost a little bit. My fears were well founded. I came in this morning at an easily obese 32.69%. If I was to make an educated guess where I was in September I would say close to 40%. A VERY unhealthy place to be.</p>
-
+      <br />
+      <p className='t-medium bold'>Gut Check!</p>
+      <br />
+      <p>So I am 1/4 of the way there. How am I doing? Although a week ago I was feeling pretty depressed about my progress I now realize it was just the Vovid downtime messing with my brain. I felt confident coding this week and it reminded me how far I have come with that. Physically I am making great prgress as well. I am down roughly 20lbs since I started and my cardio and strength is building every week. I am slightly behind on my reading but I will beef up my reading time at night. I am still confident I can hit my goals!</p>
+      <br />
+      <div className='center'>
+      <span className='t-medium bold'>See ya next week!</span>
+</div>
       
     </div>
  

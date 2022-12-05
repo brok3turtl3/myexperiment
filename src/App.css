@@ -79,6 +79,12 @@ p{
 .ml2{
   margin-left: 2rem
 }
+.ma{
+  margin: 0 auto;
+}
+.center{
+  text-align: center;
+}
 
 .t-normal{
   font-size: 1rem;
@@ -109,4 +115,11 @@ p{
   color: beige;
 }
 
-
+@media screen and (max-width: 480px) {
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-size: 12px;
+  }
+}

@@ -7,3 +7,23 @@
     justify-content: space-between;
 }
 
+.mail:hover{
+    color: yellow;
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .copywrite{
+        text-align: center;
+    }
+
+    .twitter{
+        text-align: center;
+    }
+
+    .mail{
+        text-align: center;
+    }
+}
+

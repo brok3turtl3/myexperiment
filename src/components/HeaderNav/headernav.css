@@ -15,6 +15,10 @@ a{
     color: beige;
 }
 
+a:hover{
+    color: yellow;
+}
+
 .brand{
     margin: auto 0 auto 1rem;
     color: beige;

@@ -14,7 +14,7 @@ const Footer = () => {
     
 <div className='mail pr1'>
     <a href="mailto:brok3turtl3@gmail.com">
-                <span className="beige t-medium">Contact Me</span><i className="fa-regular fa-envelope beige medium pl1"></i></a></div>
+                <span className="mail beige t-medium">Contact Me</span><i className="fa-regular fa-envelope beige medium pl1"></i></a></div>
 
 
     
