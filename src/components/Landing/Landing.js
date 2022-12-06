@@ -9,7 +9,7 @@ const Landing = () => {
 <div className="question-container mt1 ml1">
     <p className="t-large mb1 p1"><span className='t-large bold'>The Question:</span> When is it too late to make significant life changes?</p>
     <hr></hr>
-    <p className='t-normal mt1 p1'>The quick answer is NEVER!! But in reality this is a tough question and the answer could vary from person to person. Once we are "middle-aged" it can be dificult to unwind decades of habits that keep us in a rut with our health and professional endeavors. How much can I change my life in one year? Can I rebuild my health habits and move to a new carreer in a completely different field?</p>
+    <p className='t-normal mt1 p1'>The quick answer is NEVER!! But in reality this is a tough question and the answer could vary from person to person. Once we are "middle-aged" it can be difficult to unwind decades of habits that keep us in a rut with our health and professional endeavors. How much can I change my life in one year? Can I rebuild my health habits and move to a new career in a completely different field?</p>
 </div>
 <div className="question-image">
     <img src="../images/oldmanthinking.jpg" alt="" />
@@ -34,7 +34,7 @@ const Landing = () => {
 <div className="hypothesis-container">
     <p className="t-large mb1 p1"><span className='t-large bold'>Prediction:</span> I believe, in less than a year, I can radically improve my mental and physical health while transitioning to a new career in web development.</p>
     <hr></hr>
-    <p className='t-normal mt1 p1'>I believe that I can make significant improvements in my overall physical and mental health as well as obtain employemt and start a new career in a technically challenging field. Applying consistent effort to structured daily routines and monitoring will produce compound effects over time and impressive, life changing, results.</p>
+    <p className='t-normal mt1 p1'>I believe that I can make significant improvements in my overall physical and mental health as well as obtain employment and start a new career in a technically challenging field. Applying consistent effort to structured daily routines and monitoring will produce compound effects over time and impressive, life changing, results.</p>
 </div>
 </section>
 

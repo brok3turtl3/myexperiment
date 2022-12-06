@@ -7,7 +7,7 @@ export const books = [
         date: 2022,
         difficulty: "★★",
         rating: "★★★★",
-        comments: 'A good look at how big data and algorithms can and are having an impact on society. Lots of examples, some fairly troubling. A pretty easy read on a complex subject.',
+        comments: 'A good look at how big data and algorithms can and are having an impact on society. Lots of examples, some troubling. An easy read on a complex subject.',
         coverPic: "./images/bookImages/weaponsofmathdestruction.jpg",
         ammazonLink: "https://www.amazon.ca/Weapons-Math-Destruction-Increases-Inequality/dp/B072Q1MLT5/ref=sr_1_1?crid=36G3NPTNGP1WH&keywords=weapons+of+math+destruction+audible&qid=1670187315&sprefix=weapons+of+math+destruction+audible%2Caps%2C76&sr=8-1"
     },
@@ -19,7 +19,7 @@ export const books = [
         date: 2022,
         difficulty: "★★★",
         rating: "★★★★★",
-        comments: 'Regardless of what some people may think of his public opinions or politics it is hard to argue the correctness of the advice he gives in this book or it\'s predeccesor. The overall message in the book is easy to grasp but I rated it a little higher for difficulty as it is full of references that require digestion.',
+        comments: 'Regardless of what some people may think of his public opinions or politics it is hard to argue the correctness of the advice he gives in this book or it\'s predecesor. The overall message in the book is easy to grasp but I rated it a little higher for difficulty as it is full of references that require digestion.',
         coverPic: "./images/bookImages/beyondorder.jpg",
         ammazonLink: "https://www.amazon.ca/Beyond-Order-More-Rules-Life/dp/0735278334/ref=sr_1_1?crid=2AS70JTPLCGOP&keywords=beyond+order+hardcover&qid=1670185280&sprefix=beyond+order+hardcover%2Caps%2C71&sr=8-1"
     },
@@ -43,7 +43,7 @@ export const books = [
         date: 2022,
         difficulty: "★",
         rating: "★★★★★",
-        comments: "This book is actually an ongoing read. I have read it through once and now use it as a resource when I am looking for new things to try or read. An amazing compendium of snapshots into the things and information some of the most successful people in world have found valuable. And, I am a HUGE Tim Ferriss fan. Check out his podcasts!",
+        comments: "This book is actually an ongoing read. I have read it through once and now use it as a resource when I am looking for new things to try or read. An amazing compendium of snapshots into the things and information some of the most successful people in world have found valuable. And I am a HUGE Tim Ferriss fan. Check out his podcasts!",
         coverPic: "./images/bookImages/toolsoftitans.jpg",
         ammazonLink: "https://www.amazon.ca/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_1?crid=31L4CGNGQ9FAV&keywords=tools+of+titans+hardcover&qid=1670184469&s=audible&sprefix=tools+of+titans+hardcover%2Caudible%2C74&sr=1-1-catcorr"
     },
@@ -55,7 +55,7 @@ export const books = [
         date: 2022,
         difficulty: "★★",
         rating: "★★★★★",
-        comments: "Super relevant subject matter considering the amount of information that we have at our fingertips in this era. The book promotes a healthy mistrust and skepticism of any information and expecially whne backed by statistics and studies. An easy read that uses simple examples to make you aware how easily we can be misled.",
+        comments: "Super relevant subject matter considering the amount of information that we have at our fingertips in this era. The book promotes a healthy mistrust and skepticism of any information and especially when backed by statistics and studies. An easy read that uses simple examples to make you aware how easily we can be misled.",
         coverPic: "./images/bookImages/callingbullshit.jpg",
         ammazonLink: "https://www.amazon.ca/Calling-Bullshit-Skepticism-Data-Driven-World/dp/B0876GK84C/ref=sr_1_1?crid=F0E6ERD5T9QD&keywords=calling+bullshit+audible&qid=1670183005&sprefix=calling+bullshit+audible%2Caps%2C74&sr=8-1"
     },
@@ -91,7 +91,7 @@ export const books = [
     date: 2022,
     difficulty: "★",
     rating: "★★★★★",
-    comments: "This is an anual read and I read it again when I started this experiment. Filled with super practical advice and easy to implement practices. In my opinion it is the gold standard for a place to start when you are looking to reform old habits or make brand new ones stick.",
+    comments: "This is an annual read and I read it again when I started this experiment. Filled with super practical advice and easy to implement practices. In my opinion it is the gold standard for a place to start when you are looking to reform old habits or make brand new one's stick.",
     coverPic: "./images/bookImages/atomichabits.png",
     ammazonLink: "https://www.amazon.ca/Atomic-Habits-James-Clear/dp/1847941834/ref=sr_1_1?gclid=Cj0KCQiAyracBhDoARIsACGFcS5uVkM8HHM6vuEtZ3ip208IqB3xFu4YloFMDX51RVHALvm8zGJh8coaAls7EALw_wcB&hvadid=600249105493&hvdev=c&hvlocphy=9000654&hvnetw=g&hvqmt=e&hvrand=9528657224061903935&hvtargid=kwd-988725570918&hydadcr=21681_13372336&keywords=atomic+habits+book+paperback&qid=1670282953&sr=8-1"
 }
