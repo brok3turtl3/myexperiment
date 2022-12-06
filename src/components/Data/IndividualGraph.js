@@ -5,7 +5,7 @@ import './individualGraph.css'
 
 const IndividualGraph = ({graph: {name, graphPic}}) => {
   return (
-    <div id="weight" className="data-card-container">
+    <div className="data-card-container">
         <div className='data-banner pb1'>
      <span className='t-medium bold'>{name}</span> 
 

@@ -5,9 +5,9 @@ export const books = [
         genre: "Science - Social Commentary",
         year: 2016,
         date: 2022,
-        difficulty: "★★★",
-        rating: "★★★★4",
-        comments: 'Regardless of what some people may think of his public opinions or politics it is hard to argue the correctness of the advice he gives in this book or it\'s predeccesor. The overall message in the book is easy to grasp but I rated it a little higher for difficulty as it is full of references that require digestion.',
+        difficulty: "★★",
+        rating: "★★★★",
+        comments: 'A good look at how big data and algorithms can and are having an impact on society. Lots of examples, some fairly troubling. A pretty easy read on a complex subject.',
         coverPic: "./images/bookImages/weaponsofmathdestruction.jpg",
         ammazonLink: "https://www.amazon.ca/Weapons-Math-Destruction-Increases-Inequality/dp/B072Q1MLT5/ref=sr_1_1?crid=36G3NPTNGP1WH&keywords=weapons+of+math+destruction+audible&qid=1670187315&sprefix=weapons+of+math+destruction+audible%2Caps%2C76&sr=8-1"
     },
@@ -81,6 +81,18 @@ export const books = [
     rating: "★★★★★",
     comments: "I read this book at least once a year. I read it again when I started this experiment to remind myself how powerful consistent effort can be. A must read for anyone that feels intimidated by how far away their goals seem.",
     coverPic: "./images/bookImages/thecompoundeffect.jpg",
+    ammazonLink: "https://www.amazon.ca/Compound-Effect-Darren-Hardy/dp/9390924634/ref=sr_1_1?crid=2YOY4S8QU45P3&keywords=the+compound+effect+paperback&qid=1670181553&s=audible&sprefix=the+compound+effect+paperback%2Caudible%2C76&sr=1-1-catcorr"
+},
+{
+    title: "Atomic Habits",
+    author: "James Clear",
+    genre: "Psychology - Self Improvement",
+    year: 2012,
+    date: 2022,
+    difficulty: "★",
+    rating: "★★★★★",
+    comments: "This is an anual read and I read it again when I started this experiment. Filled with super practical advice and easy to implement practices. In my opinion it is the gold standard for a place to start when you are looking to reform old habits or make brand new ones stick.",
+    coverPic: "./images/bookImages/atomichabits.png",
     ammazonLink: "https://www.amazon.ca/Compound-Effect-Darren-Hardy/dp/9390924634/ref=sr_1_1?crid=2YOY4S8QU45P3&keywords=the+compound+effect+paperback&qid=1670181553&s=audible&sprefix=the+compound+effect+paperback%2Caudible%2C76&sr=1-1-catcorr"
 }
 

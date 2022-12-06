@@ -12,7 +12,7 @@ const Data = () => {
         <div className="data-inner">
 
       <div className="data-intro-container pt2">
-      <p className='data-intro pt2 t-medium'>Once a week I will post a summary of my week's wins and losses. I am sure there will be ups and downs and hopefully sharing them will help keep things in context for me and really show everyone else what the journey was actually like!</p>
+      <p className='data-intro pt2 t-medium'>Once a week I will update the data in this section and continue to expand on the data being provided.</p>
         </div>
 
         {data.map((graph, index) => {

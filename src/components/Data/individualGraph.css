@@ -1,7 +1,7 @@
 .data-card-container{
     background-color: rgba(243,239,224, 0.7);
-    width: 600px;
-    min-width: 400px;
+    width: 80%;
+    min-width: 300px;
     max-width: 600px;
     margin: 2rem auto;
     padding: 1rem;
@@ -16,6 +16,7 @@
 
 .data-graph{
 	text-align: center;
+    width: 100%;
 }
 
 .data-graph img{
@@ -23,3 +24,17 @@
 	margin: 0 auto;
     height: auto;
 }
+
+@media screen and (max-width: 480px) {
+
+    .data-card-container{
+        background-color: rgba(243,239,224, 0.7);
+        min-width: 250px;
+        max-width: 80%;
+        margin: 2rem auto;
+        padding: 1rem;
+        border-radius: 10px;
+        
+    
+    }
+}      
