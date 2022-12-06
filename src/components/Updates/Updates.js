@@ -33,7 +33,7 @@ const Updates = () => {
 <br />
       <p className='t-medium bold'>Covid is Behind Me</p>
       <br />
-      <p>I am finally feeling completely normal again. After being bed ridden for the first two weeks of November and dealing with some significant residual effects the rest of the month I can finally say that this week I feel like my old self again. It definitely put a dent in my momentum with the experiment but I am back work at my goals with 100% effort and motivation.</p>
+      <p>I am finally feeling completely normal again. After being bed ridden for the first two weeks of November and dealing with some significant residual effects the rest of the month I can finally say that this week I feel like my old self again. It definitely put a dent in my momentum with the experiment but I am back working towards my goals with 100% effort and motivation.</p>
       <br />
       <p className='t-medium bold'>Am I Really This Fat!?</p>
       <br />

@@ -43,7 +43,7 @@ export const books = [
         date: 2022,
         difficulty: "★",
         rating: "★★★★★",
-        comments: "This book is actually an ongoing read. I have read it through once and now use it as a resource when I am looking for new things to try or read. An amazing compendium of snapshots into the things and information some of the most successful people in world have found valuable. And I am a HUGE Tim Ferriss fan. Check out his podcasts!",
+        comments: "This book is actually an ongoing read. I have read it through once and now use it as a resource when I am looking for new things to try or read. An amazing compendium of snapshots into the things and information some of the most successful people in the world have found valuable. And I am a HUGE Tim Ferriss fan. Check out his podcasts!",
         coverPic: "./images/bookImages/toolsoftitans.jpg",
         ammazonLink: "https://www.amazon.ca/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_1?crid=31L4CGNGQ9FAV&keywords=tools+of+titans+hardcover&qid=1670184469&s=audible&sprefix=tools+of+titans+hardcover%2Caudible%2C74&sr=1-1-catcorr"
     },
