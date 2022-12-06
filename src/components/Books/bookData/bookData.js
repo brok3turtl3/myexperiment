@@ -93,7 +93,7 @@ export const books = [
     rating: "★★★★★",
     comments: "This is an anual read and I read it again when I started this experiment. Filled with super practical advice and easy to implement practices. In my opinion it is the gold standard for a place to start when you are looking to reform old habits or make brand new ones stick.",
     coverPic: "./images/bookImages/atomichabits.png",
-    ammazonLink: "https://www.amazon.ca/Compound-Effect-Darren-Hardy/dp/9390924634/ref=sr_1_1?crid=2YOY4S8QU45P3&keywords=the+compound+effect+paperback&qid=1670181553&s=audible&sprefix=the+compound+effect+paperback%2Caudible%2C76&sr=1-1-catcorr"
+    ammazonLink: "https://www.amazon.ca/Atomic-Habits-James-Clear/dp/1847941834/ref=sr_1_1?gclid=Cj0KCQiAyracBhDoARIsACGFcS5uVkM8HHM6vuEtZ3ip208IqB3xFu4YloFMDX51RVHALvm8zGJh8coaAls7EALw_wcB&hvadid=600249105493&hvdev=c&hvlocphy=9000654&hvnetw=g&hvqmt=e&hvrand=9528657224061903935&hvtargid=kwd-988725570918&hydadcr=21681_13372336&keywords=atomic+habits+book+paperback&qid=1670282953&sr=8-1"
 }
 
 
