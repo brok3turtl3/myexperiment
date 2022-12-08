@@ -17,7 +17,7 @@ export const data = [
     },
     {
         name: "GitHub Commits",
-        graphPic: "./images/graphImages/github2.jpg"
+        graphPic: "./images/graphImages/github.jpg"
     },
 
 ]
