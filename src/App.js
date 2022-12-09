@@ -10,6 +10,7 @@ import Books from './components/Books/Books';
 import Data from './components/Data/Data';
 import Updates from './components/Updates/Updates';
 import Blog from './components/Blog/Blog';
+import Goals from './components/Goals/Goals';
 
 const App = () => {
 	return (
@@ -21,6 +22,7 @@ const App = () => {
 					<Route path='/' element={<Landing />} />
 					<Route path='/books' element={<Books />} />
 					<Route path='/data' element={<Data />}></Route>
+					<Route path='/goals' element={<Goals />}></Route>
 					<Route path='/updates' element={<Updates />}></Route>
 					<Route path='/blog' element={<Blog />}></Route>
 				</Routes>

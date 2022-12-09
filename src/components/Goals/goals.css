@@ -1,0 +1,68 @@
+.goals-container{
+    background: url(./updates.jpg) no-repeat center
+		center/cover;
+	position: relative;
+	height: 100vh;
+    
+}
+
+.goals-overlay{
+    height: 100%;
+	width: 100%;
+	position: absolute;
+
+	
+	left: 0;
+	background-color: rgba(24, 25, 26, 0.5);
+	overflow: auto;
+	
+}
+
+.goals-inner{
+	margin: 100px auto 0;
+	margin-top: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%
+}
+
+.goals-card{
+    background-color: rgba(243,239,224, 0.7);
+    width: 80%;
+    min-width: 400px;
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 10px;
+    
+
+}
+
+.table{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.stats{
+    display: flex;
+    width: 20%;
+}
+.start{
+width: 50%;
+text-align: center;
+}
+.goal{
+width: 50%;
+text-align: center;
+}
+.head{
+    padding: 0.2rem;
+    font-weight: bold;
+}
+.cell{
+    padding: .2rem
+}
+.list{
+    width: 50%;
+    margin: 0 auto;
+}
