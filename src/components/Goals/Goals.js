@@ -16,14 +16,14 @@ const Goals = () => {
                 <div className="metrics">
                     <p className="head">Metric</p>
                     <p className='cell'>Weight</p>
-                    <p className='cell'>Body Fat<span className='bold'> (Dec. 8th)</span></p>
-                    <p className='cell'>Push Ups<span>(one continuous set)</span></p>
-                    <p className='cell'>Burpees<span>(one continuous set)</span></p>
+                    <p className='cell'>Body Fat<span className='bold t-small'> (Dec. 8th)</span></p>
+                    <p className='cell'>Push Ups<span className='t-small'>(one continuous set)</span></p>
+                    <p className='cell'>Burpees<span className='t-small'>(one continuous set)</span></p>
                     <p className='cell'>Breath Hold</p>
-                    <p className='cell'>Run<span>(Distance in 30min)</span><span className='bold'> (Dec. 8th)</span></p>
+                    <p className='cell'>Run<span className='t-small'>(Distance in 30min)</span><span className='bold t-small'> (Dec. 8th)</span></p>
                     <p className='cell'>Resting Heart Rate</p>
-                    <p className='cell'>Meditation<span>(Hours per week)</span></p>
-                    <p className='cell'>Yoga<span>(Hours per week)</span></p>
+                    <p className='cell'>Meditation<span className='t-small'>(Hours per week)</span></p>
+                    <p className='cell'>Yoga<span className='t-small'>(Hours per week)</span></p>
                     <p className='cell'>Books Read</p>
                     <p className='cell'>Web Projects Built</p>
                     <p className='cell'>Github PR Merges</p>
@@ -49,7 +49,7 @@ const Goals = () => {
                 <div className="goal">
                 <p className="head">Goal</p>
                     <p className='cell'>&#60;225lbs</p>
-                    <p className='cell'>&#60;npm run build20%</p>
+                    <p className='cell'>&#60;20%</p>
                     <p className='cell'>100</p>
                     <p className='cell'>50</p>
                     <p className='cell'>4min</p>

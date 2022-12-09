@@ -45,6 +45,7 @@
 }
 .stats{
     display: flex;
+    min-width: 150px;
     width: 20%;
 }
 .start{
@@ -65,4 +66,11 @@ text-align: center;
 .list{
     width: 50%;
     margin: 0 auto;
+}
+
+@media screen and (max-width: 600px) {
+    .cell{
+    padding: .5rem;    
+font-size: 0.8rem;
+    }
 }
