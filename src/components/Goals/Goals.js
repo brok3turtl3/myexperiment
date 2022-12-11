@@ -33,17 +33,17 @@ const Goals = () => {
                 <div className="start">
                 <p className="head">Start</p>
                     <p className='cell'>263lbs</p>
-                    <p className='cell'>40%</p>
+                    <p className='cell'>33%</p>
                     <p className='cell'>15</p>
-                    <p className='cell'>11</p>
+                    <p className='cell'>7</p>
                     <p className='cell'>1:16</p>
                     <p className='cell'>2.1km</p>
                     <p className='cell'>76bpm</p>
                     <p className='cell'>30min</p>
                     <p className='cell'>0</p>
                     <p className='cell'>0</p>
-                    <p className='cell'>n/a</p>
-                    <p className='cell'>n/a</p>
+                    <p className='cell'>0</p>
+                    <p className='cell'>0</p>
                     <p className='cell'>n/a</p>
                 </div>
                 <div className="goal">
@@ -56,7 +56,7 @@ const Goals = () => {
                     <p className='cell'>5km</p>
                     <p className='cell'>60bpm</p>
                     <p className='cell'>2hrs</p>
-                    <p className='cell'>2</p>
+                    <p className='cell'>2hrs</p>
                     <p className='cell'>50</p>
                     <p className='cell'>12</p>
                     <p className='cell'>10</p>
