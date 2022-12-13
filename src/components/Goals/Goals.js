@@ -3,7 +3,7 @@ import './goals.css';
 
 const Goals = () => {
   return (
-    <div className="goals-container"  style={{ backgroundImage: "url(/updates.jpg)", backgroundRepeat: 'no-repeat', backgroundSize: "cover" }}>
+    <div className="goals-container"  style={{ backgroundImage: "url(./images/updates.jpg)", backgroundRepeat: 'no-repeat', backgroundSize: "cover" }}>
       <div className="goals-overlay">
         <div className="goals-inner">
         <div className="goals-card">

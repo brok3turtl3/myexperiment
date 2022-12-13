@@ -3,7 +3,7 @@ import './updates.css'
 
 const Updates = () => {
   return (
-    <div className="update-container" style={{ backgroundImage: "url(/updates.jpg)", backgroundRepeat: 'no-repeat', backgroundSize: "cover" }}>
+    <div className="update-container" style={{ backgroundImage: "url(./images//updates.jpg)", backgroundRepeat: 'no-repeat', backgroundSize: "cover" }}>
       <div className="update-overlay">
         <div className="update-inner">
       <div className="update-intro-container pt2">
