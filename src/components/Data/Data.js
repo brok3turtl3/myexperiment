@@ -7,7 +7,7 @@ import './data.css';
 
 const Data = () => {
   return (
-    <div className="data-container">
+    <div className="data-container" style={{ backgroundImage: "url(./images/chalkboard.jpg)", backgroundRepeat: 'no-repeat', backgroundSize: "cover" }}>
       <div className="data-overlay">
         <div className="data-inner">
 

@@ -6,7 +6,7 @@ import books from './bookData/bookData';
 
 const Books = () => {
   return (
-    <div className="books-container">
+    <div className="books-container" style={{ backgroundImage: "url(./images/library.jpg)", backgroundRepeat: 'no-repeat', backgroundSize: "cover" }}>
       <div className="books-overlay">
         <div className="books-inner">
       <div className="books-intro-container pt2">
