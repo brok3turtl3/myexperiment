@@ -8,7 +8,7 @@ const Goals = () => {
         <div className="goals-inner">
         <div className="goals-card">
             <p className="t-medium center bold mb1">How Do I Measure Success?</p>
-            <p className='mb1'>I am tracking 40+ data points throughout my experiment. The table below contains the ones I will be using to judge the overall success of my efforts. I have included starting values for each(inlucding a date if I started tracking after the experiment started) and a target value or goal.</p>
+            <p className='mb1'>I am tracking 40+ data points throughout my experiment. The table below contains the ones I will be using to judge the overall success of my efforts. I have included starting values for each(including a date if I started tracking after the experiment started) and a target value or goal.</p>
             <hr />
 
             
@@ -67,9 +67,9 @@ const Goals = () => {
 
             <hr />
             <p className="t-medium center bold  mb1 mt1">Notes On Daily Routines And Strategies</p>
-            <p>The information will more than likely change a fair amount over time but I wanted to give everyone an overview of how I am tackling certain areas and methods I am using. For example, when I started I made some very broad and basic dieting rules to get things started. I believe shortly after Chrismas I will be tightening up that part of my regime. I may go full Keto.</p>
+            <p>This information will more than likely change a fair amount over time but I want to give everyone an overview of how I am tackling certain areas and the methods I am using. For example, when I began, I made some very broad and basic dieting rules to get things started. I believe shortly after Chrismas I will be tightening up that part of my regime. I may go full Keto.</p>
                 <br /> 
-                <p>I think having this section to add context to the data I am posting will be helpful for people. I also wanted people to have a general idea of the level of effort and time that went in to certain things to make the gains. Sometimes we all think it takes a lot more effort than it actually does!</p>
+                <p>I think having this section to add context to the data I am posting will be helpful for people. I also want people to have a general idea of the level of effort and time that went in to certain things to make the gains. Sometimes we all think it takes a lot more effort than it actually does!</p>
                 <br />
                 <hr />
                 
@@ -96,7 +96,7 @@ const Goals = () => {
                 </div>
                 <br />
                 <p className="t-medium bold  mb1 mt1">Daily Morning Routine:</p>
-                <p>I believe the start in the morning is crucial to ensuring a successful day. I get up EARLY! I am typically out of bed by 4am. This usually gives me 6.5 to 7hrs of sleep. As soon as I am up I start the coffee and get going! It usually takes 25-30 min. I complete these things in this order, with very few exceptions:</p>
+                <p>I believe a good start in the morning is crucial to ensuring a successful day. I get up EARLY! I am typically out of bed by 4am. This usually gives me 6.5 to 7hrs of sleep. As soon as I am up I start the coffee and get going! It usually takes 25-30 min. I complete these things in this order, with very few exceptions:</p>
                 <br />
                 <div className='list'>
                 <ul>
@@ -108,7 +108,7 @@ const Goals = () => {
                 </div>
                 <br />
                 <p className="t-medium bold  mb1 mt1">Reading:</p>
-<p> I will be using a combination of physical and audio for this. I plan on spending 30min minimum (usually at nights) with a physical book and the filling in with audio throughout the day. The audio lets me double up activities like doing my cardio while I listen to a book. The audio medium also allows me to speed up the intake. 1.25x to 1.5x depending on the material. </p>
+<p> I will be using a combination of physical and audio for this. I plan on spending 30min minimum (usually at nights) with a physical book and the then filling in with audio throughout the day. The audio lets me double up activities like doing my cardio while I listen to a book. The audio medium also allows me to speed up the intake. 1.25x to 1.5x depending on the material. </p>
 
 
 
