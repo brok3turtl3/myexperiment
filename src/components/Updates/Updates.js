@@ -13,6 +13,50 @@ const Updates = () => {
       <div className='update-card-container m2'>
 
     <div className='update-banner'>
+     <p className='t-medium bold'>Week 14 Update</p>
+     <br /> 
+
+    <p className='t-medium bold pb1'>Dec 19th 2022</p>
+</div>
+
+<hr />
+
+
+    <div className="comments pt1">
+      <p className='t-medium bold'>Missed It By That Much...</p>
+      <br />
+      <p>The title should be read in your best Maxwell Smart voice. If that reference is a little too "Boomery" here ya go: <a href="https://www.youtube.com/watch?app=desktop&v=oPwrodxghrw" target="_blank" rel="noreferrer">Maxwell</a>.</p>
+      <br />
+      <p>I was actually pretty close. I really wanted to dip into the 230's for my weight in this week but fell slightly short. I weighed in at 240.5 lbs. My wife is convinced that the secret to my loss this week was the combination of red wine and a crock pot curried chicken on Sunday.</p>
+      <br />
+      <p>I will try to be super strict for the beginning of this week to give myself a little padding going into the Christmas debauchery!</p>
+<br />
+      <p className='t-medium bold'>Have Your Eyes Ever Twitched?</p>
+      <br />
+      <p>I picked up the pace this week on the reading. I had meant to increase the amount of audio "reading" I was doing but ended up spending all my time with the real thing.</p> 
+      <br />
+      <p>I started using some basic speed reading techniques I picked up in a book by Jim Kwik called Limitless. It will take a bit of practice but the techniques dramatocally improve speed while maintaining retention.</p>
+      <br />
+      <p className='t-medium bold'>My Flow Is Real.</p>
+      <br />
+      <p>I had a fantastic week coding. I pushed multiple updates to my family's social app and learned a ton of new things while figuring out how to make things run better or work at all. Inline image loads for background on pages like these was a win, and "lazy loading"...? Common!</p>
+      <br />
+      <p>I did not watch any new tutorials or spend much time on bootcamp lessons but never the less it was a great week. Next week I will shift a little effort back to those things. I think that a 30/70 split of my time from learning to building stuff is probably the sweet spot.</p>
+      <br />
+      <p className='t-medium bold'>Forest Gump Has Nothing On Me!</p>
+      <br />
+      <p>Well, I could probably beat young Forest while he is still wearing the leg braces BUT, I have come a long way already in just two weeks.</p>
+      <br />
+      <p>I added graph data for my progress with the running (pronounced "jogging") this week. Right now on the weekly updates I get on the treadmill for 32 min and see how far I can get. If I can add a little more than 0.1 kms every week to my distance I should get to my goal. This week I jump almost a half a kilometer and felt like I had more room to push.</p>
+      <br />
+      <div className='center'>
+      <span className='t-medium bold'>See ya next week!</span>
+</div>
+</div></div>
+
+      <div className='update-card-container m2'>
+
+    <div className='update-banner'>
      <p className='t-medium bold'>Week 13 Update</p>
      <br /> 
 

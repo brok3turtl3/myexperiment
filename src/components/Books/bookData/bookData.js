@@ -1,5 +1,30 @@
 export const books = [
     {
+        title: "Ikigai",
+        author: "Hector Garcia / Francesc Miralles",
+        genre: "Science - Social Commentary",
+        year: 2016,
+        date: 2022,
+        difficulty: "★",
+        rating: "★★★★",
+        comments: 'Want to chase the rabit and live forever? Read about the longest living (and happiest?) people in the world. Super easy read and offers some easy to follow examples we can all take from.',
+        coverPic: "./images/bookImages/ikigai.png",
+        ammazonLink: "https://www.amazon.ca/gp/product/0143130722/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1"
+    },
+    {
+        title: "Tao Te Ching",
+        author: "Lao-Tzu (Jonathan Star Translation)",
+        genre: "Philosophy - Religion",
+        year: 2016,
+        date: 2022,
+        difficulty: "★★",
+        rating: "★★★★",
+        comments: 'A book of poetry and one of the fundamental texts of Taoism. Like a lot of the Eastern religions and philosophies it will take many reads to get the most of this work. I like the overall message that we all need to chill a little more to enjoy life.',
+        coverPic: "./images/bookImages/taoteching.png",
+        ammazonLink: "https://www.amazon.ca/gp/product/1585426180/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1"
+    },
+    
+    {
         title: "Weapons of Math Destruction",
         author: "Cathy O'Neil",
         genre: "Science - Social Commentary",
