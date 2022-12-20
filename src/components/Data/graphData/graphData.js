@@ -4,7 +4,7 @@ export const data = [
         graphPic: "./images/graphImages/Weight.png"
     },
     {
-        name: "Fat Percentage",
+        name: "Fat Percentage (Dec. 8th Start",
         graphPic: "./images/graphImages/fat.png"
     },
     {
@@ -19,6 +19,15 @@ export const data = [
         name: "GitHub Commits",
         graphPic: "./images/graphImages/github.jpg"
     },
+    {
+        name: "Breath Hold",
+        graphPic: "./images/graphImages/breathe.png"
+    },
+    {
+        name: "Run Distance (32min) (Dec. 8th Start)",
+        graphPic: "./images/graphImages/rundistance.png"
+    },
+
 
 ]
 
