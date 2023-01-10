@@ -1,5 +1,29 @@
 export const books = [
     {
+        title: "Cosmic Queries",
+        author: "Neil deGrasse Tyson / James Trefil",
+        genre: "Science",
+        year: 2021,
+        date: 2023,
+        difficulty: "★★★",
+        rating: "★★★★",
+        comments: 'Very easy to read considering the subject matter. You will go from feeling very small to very large and get a good review of how we came to be and where things could be headed. Disclaimer - It all ends the same way!',
+        coverPic: "./images/bookImages/cosmicqueries.jpg",
+        ammazonLink: "https://www.amazon.ca/Cosmic-Queries-StarTalks-Guide-Where/dp/B08PW2N8R3/ref=sr_1_1?keywords=cosmic+queries&qid=1673360080&s=books&sprefix=cosmic+%2Cstripbooks%2C67&sr=1-1"
+    },
+    {
+        title: "100 Philosophers",
+        author: "Lesley Levene",
+        genre: "Philosophy - History",
+        year: 2021,
+        date: 2023,
+        difficulty: "★",
+        rating: "★★★★",
+        comments: 'A great reference book if you are interested in reading about how people think we should think. It is ordered chronologically which shows us how certain types of thinking aligned with historical periods. I came away with a few new books to read.',
+        coverPic: "./images/bookImages/philosophers.jpg",
+        ammazonLink: "https://www.amazon.ca/100-Philosophers-Wisdom-Worlds-Thinkers-ebook/dp/B099X94GTC/ref=sr_1_1?keywords=100+philosophers&qid=1673360425&s=books&sprefix=100+philosop%2Cstripbooks%2C77&sr=1-1"
+    },
+    {
         title: "Ikigai",
         author: "Hector Garcia / Francesc Miralles",
         genre: "Science - Social Commentary",
