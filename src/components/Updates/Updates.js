@@ -68,7 +68,7 @@ const Updates = () => {
               <p><em>"I am the wisest man alive, for I know one thing, and that is that I know nothing."</em></p>
               <p><strong>Aristotle</strong></p>
               <br />
-              <p>Every time I read a book, I inevitably finish having two or three new books I want to read. It has become quite humbling. As I read more my known knowns increase but my unknown knowns increase faster, and I have come to accept that my unknown unkowns are staggering.</p>
+              <p>Every time I read a book, I inevitably finish having two or three new books I want to read. It has become quite humbling. As I read more my known knowns increase but my known unknowns increase faster, and I have come to accept that my unknown unknowns are staggering.</p>
               <br />
               <p>If that last bit seemed confusing - Google "Donald Rumsfeld unknown unknowns".</p>
               <br />

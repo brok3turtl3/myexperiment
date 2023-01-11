@@ -7,7 +7,7 @@ export const books = [
         date: 2023,
         difficulty: "★★★",
         rating: "★★★★",
-        comments: 'Very easy to read considering the subject matter. You will go from feeling very small to very large and get a good review of how we came to be and where things could be headed. Disclaimer - It all ends the same way!',
+        comments: `Very easy to read considering the subject matter. You will go from feeling very small to very large and get a good review of how we came to be and where things could be headed. Spoiler Alert - It all ends the same way!`,
         coverPic: "./images/bookImages/cosmicqueries.jpg",
         ammazonLink: "https://www.amazon.ca/Cosmic-Queries-StarTalks-Guide-Where/dp/B08PW2N8R3/ref=sr_1_1?keywords=cosmic+queries&qid=1673360080&s=books&sprefix=cosmic+%2Cstripbooks%2C67&sr=1-1"
     },
