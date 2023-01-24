@@ -22,7 +22,53 @@ const Updates = () => {
 						</p>
 					</div>
 
-          <div className='update-card-container m2'>
+					
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 18 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Jan 16th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<p className='t-medium bold'>I Am Turning Pro!</p>
+							<br />
+							<p>
+								One of the coolest things that I have experienced since this all started happened this week. I was approached by someone I have been working with to resolve some image retrieval errors on the Family Matters site to write a technical article for their company's site.
+							</p>
+							<br />
+							<p>I have never done anything like this so I am sure it will feel clumsy and take a fair amount of re-writes but it is super exciting and somewhat re-assuring that the career switch may actually be doable.</p>
+							<br />
+							<p className='t-medium bold'>If You Want to Change the World, Make Your Bed.</p>
+							<br />
+							<p>
+								This week I started to struggle again with checking off all my daily boxes. Some of it has to do with my focus shifting too much to one task. Lately that has been the Keto site. I can also blame some of it on the quality of my early day routines. There is a ton of literature out there on the benefits of how you start your day and how that can set the rest of your day up for success or failure.
+							</p>
+							<br />
+							<p>This video is of an impressive speech I saw a number of years ago. I watch it every once in a while, when I need to reset my compass. The whole video is worth watching but it will start for you at the applicable part. This week I started making my bed again.</p>
+							<br />
+							<div className='center'>
+							<iframe width="80%" height="315" src="https://www.youtube.com/embed/pxBQLFLei70?start=283" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+							</div>
+							<br />
+							<p className='t-medium bold'>Get Your Hands Dirty!</p>
+							<br />
+							<p>
+								The last couple of weeks I have not watched any tutorials and have spent all my coding time working on the new site. It strikes me once again how much I learn when I am trying to build or fix things. There is obviously a place for the courses, and they provide a good framework and understanding of basic concepts but where I really cement my knowledge and put it to the test is while I try to bring my ideas to life. This is when I learn better and more efficient ways to do things and it is where I get my ideas for new features that inevitably lead me down new learning paths.
+							</p>
+							<br />
+							
+							
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 17 Update</p>
 							<br />
@@ -36,45 +82,100 @@ const Updates = () => {
 							<p className='t-medium bold'>I Am Back Baby!</p>
 							<br />
 							<p>
-								I was a little worried about my motivation levels coming into this week, but I have rekindled the energy and drive I needed to continue making great progress. Sometimes you just have to take the first step and your body will take over.
+								I was a little worried about my motivation levels coming into
+								this week, but I have rekindled the energy and drive I needed to
+								continue making great progress. Sometimes you just have to take
+								the first step and your body will take over.
 							</p>
 							<br />
-              <p>I am super excited to see how the next few weeks develop.</p>
-              <br />
-              <p className='t-medium bold'>New Lows...</p>
-              <br />
-              <p>The good kind! I dipped into the 230s on my weigh-in this week. I cannot recall when my weight was this low but if I had to guess I would say it has been close to two years. </p>
-              <br />
-              <p>One of the coolest things about it is now wearing clothes that still had tags on them from last Christmas. Needless to say, this has been very motivating!</p>
-              <br />
-              <p className='t-medium bold'>TAP! TAP! TAP! Is This Thing On???</p>
-              <br />
-              <p>I am struggling to get real momentum going with building a social following. At this rate, I will fall short by a long way of what I felt was a reasonable goal.</p>
-              <br />
-              <p>I had hoped to be able to do it without clickbait strategies and gimmicks. This week I will review my tactics and try to come at things from a different angle or maybe I will just 10x my activity and see if the pure effort will get the results I am after.</p>
-              <br />
-              <p className='t-medium bold'>Don't Blame the Bacon!</p>
-              <br />
-              <p>I am making a ton of progress on the Keto website I am working on, and I am now very confident it will be live this month.</p>
-              <br />
-              <p>The storefront which is now complete was MUCH easier than I had anticipated to set up. It highlights yet again how hard it can be for me at this stage to really estimate timelines and complexities for features and projects I undertake. Some things end up being much more frustrating and difficult than I expect and then others end up being almost trivial from what I had built up in my mind.</p>
-              <br />
-              <p>I am very eager to push this one live for feedback and hopefully build a real user base.</p>
-              <br />
-              <p className='t-medium bold'>The More I Read the Less I Know</p>
-              <br />
-              <p>This sentiment has been expressed in many ways by many important thinkers over the years but it all amounts to the same thing. Learning can be a lifelong endeavor that even if pursued vigorously will not end.</p>
-              <br />
-              <p><em>"I am the wisest man alive, for I know one thing, and that is that I know nothing."</em></p>
-              <p><strong>Aristotle</strong></p>
-              <br />
-              <p>Every time I read a book, I inevitably finish having two or three new books I want to read. It has become quite humbling. As I read more my known knowns increase but my known unknowns increase faster, and I have come to accept that my unknown unknowns are staggering.</p>
-              <br />
-              <p>If that last bit seemed confusing - Google "Donald Rumsfeld unknown unknowns".</p>
-              <br />
-
-              
-
+							<p>I am super excited to see how the next few weeks develop.</p>
+							<br />
+							<p className='t-medium bold'>New Lows...</p>
+							<br />
+							<p>
+								The good kind! I dipped into the 230s on my weigh-in this week.
+								I cannot recall when my weight was this low but if I had to
+								guess I would say it has been close to two years.{' '}
+							</p>
+							<br />
+							<p>
+								One of the coolest things about it is now wearing clothes that
+								still had tags on them from last Christmas. Needless to say,
+								this has been very motivating!
+							</p>
+							<br />
+							<p className='t-medium bold'>
+								TAP! TAP! TAP! Is This Thing On???
+							</p>
+							<br />
+							<p>
+								I am struggling to get real momentum going with building a
+								social following. At this rate, I will fall short by a long way
+								of what I felt was a reasonable goal.
+							</p>
+							<br />
+							<p>
+								I had hoped to be able to do it without clickbait strategies and
+								gimmicks. This week I will review my tactics and try to come at
+								things from a different angle or maybe I will just 10x my
+								activity and see if the pure effort will get the results I am
+								after.
+							</p>
+							<br />
+							<p className='t-medium bold'>Don't Blame the Bacon!</p>
+							<br />
+							<p>
+								I am making a ton of progress on the Keto website I am working
+								on, and I am now very confident it will be live this month.
+							</p>
+							<br />
+							<p>
+								The storefront which is now complete was MUCH easier than I had
+								anticipated to set up. It highlights yet again how hard it can
+								be for me at this stage to really estimate timelines and
+								complexities for features and projects I undertake. Some things
+								end up being much more frustrating and difficult than I expect
+								and then others end up being almost trivial from what I had
+								built up in my mind.
+							</p>
+							<br />
+							<p>
+								I am very eager to push this one live for feedback and hopefully
+								build a real user base.
+							</p>
+							<br />
+							<p className='t-medium bold'>The More I Read the Less I Know</p>
+							<br />
+							<p>
+								This sentiment has been expressed in many ways by many important
+								thinkers over the years but it all amounts to the same thing.
+								Learning can be a lifelong endeavor that even if pursued
+								vigorously will not end.
+							</p>
+							<br />
+							<p>
+								<em>
+									"I am the wisest man alive, for I know one thing, and that is
+									that I know nothing."
+								</em>
+							</p>
+							<p>
+								<strong>Aristotle</strong>
+							</p>
+							<br />
+							<p>
+								Every time I read a book, I inevitably finish having two or
+								three new books I want to read. It has become quite humbling. As
+								I read more my known knowns increase but my known unknowns
+								increase faster, and I have come to accept that my unknown
+								unknowns are staggering.
+							</p>
+							<br />
+							<p>
+								If that last bit seemed confusing - Google "Donald Rumsfeld
+								unknown unknowns".
+							</p>
+							<br />
 
 							<div className='center'>
 								<span className='t-medium bold'>See ya next week!</span>
@@ -82,7 +183,7 @@ const Updates = () => {
 						</div>
 					</div>
 
-          <div className='update-card-container m2'>
+					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 16 Update</p>
 							<br />
@@ -96,23 +197,50 @@ const Updates = () => {
 							<p className='t-medium bold'>The Struggle Is Real!</p>
 							<br />
 							<p>
-								I had an amazing holiday season with my family. It was the first one in a couple of years where we could get everyone together at our home for Christmas Day. While I would not trade this for the world it does lead to some poor diet behavior. As well, I pretty much ignored most of my daily routines for the week. Even in that short, time I feel the loss of motivation to get through my daily routines.
+								I had an amazing holiday season with my family. It was the first
+								one in a couple of years where we could get everyone together at
+								our home for Christmas Day. While I would not trade this for the
+								world it does lead to some poor diet behavior. As well, I pretty
+								much ignored most of my daily routines for the week. Even in
+								that short, time I feel the loss of motivation to get through my
+								daily routines.
 							</p>
 							<br />
-              <p>This week will be all about pushing through the wall of lethargy and getting back on track with my routines and reinforcing my habits.</p>
-              <br />
-              <p className='t-medium bold'>Construction Has Begun.</p>
-              <br />
-              <p>While it was not a stellar week for my overall progress I did manage to get a little coding time in. I used it to start my next portfolio site - KetoCorner.ca. The site will be a ketogenic lifestyle site with a recipe database, blog, and article section as well as a fully functional storefront. Not sure exactly what will be sold there yet but I am going to build it!</p>
-              <br />
-              <p>This will be another fairly large project, but I am hoping to have it more or less complete and online by the end of the month. Filling that database with recipes will be another matter altogether!</p>
-              <br />
-              <p className='t-medium bold'>Drop And Give Me 50!</p>
-              <br />
-              <p>One thing I felt good about, despite my time off, was crossing a bit of a milestone with my push-ups. Jacked up on all the Christmas sugar and special coffees, I managed to crack the 50 mark after a poor performance the week before. US Navy Seal training here I come!</p>
-              <br />
-              
-
+							<p>
+								This week will be all about pushing through the wall of lethargy
+								and getting back on track with my routines and reinforcing my
+								habits.
+							</p>
+							<br />
+							<p className='t-medium bold'>Construction Has Begun.</p>
+							<br />
+							<p>
+								While it was not a stellar week for my overall progress I did
+								manage to get a little coding time in. I used it to start my
+								next portfolio site - KetoCorner.ca. The site will be a
+								ketogenic lifestyle site with a recipe database, blog, and
+								article section as well as a fully functional storefront. Not
+								sure exactly what will be sold there yet but I am going to build
+								it!
+							</p>
+							<br />
+							<p>
+								This will be another fairly large project, but I am hoping to
+								have it more or less complete and online by the end of the
+								month. Filling that database with recipes will be another matter
+								altogether!
+							</p>
+							<br />
+							<p className='t-medium bold'>Drop And Give Me 50!</p>
+							<br />
+							<p>
+								One thing I felt good about, despite my time off, was crossing a
+								bit of a milestone with my push-ups. Jacked up on all the
+								Christmas sugar and special coffees, I managed to crack the 50
+								mark after a poor performance the week before. US Navy Seal
+								training here I come!
+							</p>
+							<br />
 
 							<div className='center'>
 								<span className='t-medium bold'>See ya next week!</span>

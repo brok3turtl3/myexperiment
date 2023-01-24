@@ -1,5 +1,41 @@
 export const books = [
     {
+        title: "What We Owe the Future",
+        author: "William MacAskill",
+        genre: "Philosophy - Social Commentary",
+        year: 2022,
+        date: 2023,
+        difficulty: "★★★★",
+        rating: "★★★★★",
+        comments: `Not sure I agree with everything the author has to say but that's the point of reading for me. His research and fact checking effort was impressive. The book gave me lots to think about including a very cool idea he calls value lock in. If the author is right we are living in some very important and scary times indeed! Great book.`,
+        coverPic: "./images/bookImages/whatweowethefuture.jpg",
+        ammazonLink: "https://www.amazon.ca/What-Owe-Future-William-MacAskill/dp/1541618629/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674571151&sr=8-1"
+    },
+    {
+        title: "The PMA Effect",
+        author: "John Joseph",
+        genre: "Philosophy - Self Improvement",
+        year: 2018,
+        date: 2023,
+        difficulty: "★",
+        rating: "★★★★★",
+        comments: `I have listened to this book several times since it came out. Given my current struggles with motivation and my habits I thought a good dose of straight talk from John Joseph was needed. This guys story is almost unbelievable and he definitely holds no bars when giving his opinion on what is or is not holding you back from your goals. One of my favorite books, period.`,
+        coverPic: "./images/bookImages/thepmaeffect.jpg",
+        ammazonLink: "https://www.amazon.ca/The-PMA-Effect/dp/0998344745/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1674571576&sr=8-1"
+    },
+    {
+        title: "The Art of Stillness in a Noisy World",
+        author: "Magnus Fridh",
+        genre: "Health - Self Improvement",
+        year: 2020,
+        date: 2023,
+        difficulty: "★",
+        rating: "★★★★",
+        comments: `There is no doubt that meditation provides numerous mental and physical health benefits with even small amounts of time. This is a great book for someone just starting to get into the habit. The author tells stories and describes real scenarios when he uses several easy techniques.`,
+        coverPic: "./images/bookImages/theartofstillnessinanoisyworld.jpg",
+        ammazonLink: "https://www.amazon.ca/Art-Stillness-Noisy-World/dp/1784883697/ref=sr_1_1?crid=28HSBPX72D6K3&keywords=the+art+of+stillness+in+a+noisy+world&qid=1674570811&sprefix=the+art+of+stillne%2Caps%2C77&sr=8-1"
+    },
+    {
         title: "Cosmic Queries",
         author: "Neil deGrasse Tyson / James Trefil",
         genre: "Science",
