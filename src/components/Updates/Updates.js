@@ -22,7 +22,64 @@ const Updates = () => {
 						</p>
 					</div>
 
-					
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 19 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Jan 23rd, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<p className='t-medium bold'>One Step Forward, 2 Burgers Back...</p>
+							<br />
+							<p>
+								So, it finally happened. The big diet snap! On Sunday night I went completely off the rails and ordered a bunch of takeout food and had a fair amount of red wine to wash it down. Not only off the low carb (keto) diet, but right off any kind of diet. I won't go into details but it was roughly 3 days worth of the calories I have been getting lately.</p>
+<br />
+								<p>
+								Needless to say, I am feeling a little sluggish today and the aftereffects are definitely reflected in the weekly weigh in. I am not going to beat myself up about it - I deserved it!
+							</p>
+							<br />
+							
+							<p className='t-medium bold'>
+								I've Got an Attitude Problem.
+							</p>
+							<br />
+							<p>
+								This week I re-read one of my favorite motivational books of all time - The PMA Effect. It was written by John Joseph McGowan. This guy has led some life... He grew up on hard streets immersed in violence and crime which eventually lead to prison. He then turns it all around with a major overhaul of how he approached life. 
+							</p>
+							<br />
+							<p>The forward of the book opens with, "John Joseph has an attitude problem. But John's problem isn't his attitude. It's yours.". And when you read the book, you have to eventually accept that it is. It takes work to maintain the kind of mindset that he does but when you do you can be so much more productive and happy.</p>
+							<br />
+							<p>This week I gave myself an attitude check!</p>
+							
+							
+							
+							<br />
+							<p className='t-medium bold'>My Hands Are Filthy!</p>
+							<br />
+							<p>
+								With the Keto site almost ready and going through the final tweaks and tests I spent a ton of my time this week at the keyboard coding again. So much so that everything else started to fall behind a bit. I always have to try and find that balance, but it felt good to really be "in the code" the last few weeks.
+							</p>
+							<br />
+							<p>Once the site goes live, hopefully next week, I will shift some of my energy back to the mental health side of things. Reading, meditation, Yoga etc... It's time to unwind and rest my mind a little bit.</p>
+
+							<br />
+							<p className='t-medium bold'>Even the Greats Get Writer's Block!</p>
+							<br />
+							<p>So I was asked to write a technical article and I have a ton of ideas and things I know I want to say, but I have not written one line. I wrote some code that I plan to use as examples and snippets but not one line of the article itself. I really thought going in that this would be super easy and fast but I find I second guess everything that I try to say.</p>
+							<br />
+							<p>It is a great opportunity for me to build some tech credentials and obviously a great learning experience. I never thought it would be this tough! I am trying not to be too hard on myself as I know even accomplished authors and writers can run into this. I think next week I will just start spilling my brains out onto paper (keyboard) and then clean it up after.</p>
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 18 Update</p>
@@ -37,31 +94,70 @@ const Updates = () => {
 							<p className='t-medium bold'>I Am Turning Pro!</p>
 							<br />
 							<p>
-								One of the coolest things that I have experienced since this all started happened this week. I was approached by someone I have been working with to resolve some image retrieval errors on the Family Matters site to write a technical article for their company's site.
+								One of the coolest things that I have experienced since this all
+								started happened this week. I was approached by someone I have
+								been working with to resolve some image retrieval errors on the
+								Family Matters site to write a technical article for their
+								company's site.
 							</p>
-							<br />
-							<p>I have never done anything like this so I am sure it will feel clumsy and take a fair amount of re-writes but it is super exciting and somewhat re-assuring that the career switch may actually be doable.</p>
-							<br />
-							<p className='t-medium bold'>If You Want to Change the World, Make Your Bed.</p>
 							<br />
 							<p>
-								This week I started to struggle again with checking off all my daily boxes. Some of it has to do with my focus shifting too much to one task. Lately that has been the Keto site. I can also blame some of it on the quality of my early day routines. There is a ton of literature out there on the benefits of how you start your day and how that can set the rest of your day up for success or failure.
+								I have never done anything like this so I am sure it will feel
+								clumsy and take a fair amount of re-writes but it is super
+								exciting and somewhat re-assuring that the career switch may
+								actually be doable.
 							</p>
 							<br />
-							<p>This video is of an impressive speech I saw a number of years ago. I watch it every once in a while, when I need to reset my compass. The whole video is worth watching but it will start for you at the applicable part. This week I started making my bed again.</p>
+							<p className='t-medium bold'>
+								If You Want to Change the World, Make Your Bed.
+							</p>
+							<br />
+							<p>
+								This week I started to struggle again with checking off all my
+								daily boxes. Some of it has to do with my focus shifting too
+								much to one task. Lately that has been the Keto site. I can also
+								blame some of it on the quality of my early day routines. There
+								is a ton of literature out there on the benefits of how you
+								start your day and how that can set the rest of your day up for
+								success or failure.
+							</p>
+							<br />
+							<p>
+								This video is of an impressive speech I saw a number of years
+								ago. I watch it every once in a while, when I need to reset my
+								compass. The whole video is worth watching but it will start for
+								you at the applicable part. This week I started making my bed
+								again.
+							</p>
 							<br />
 							<div className='center'>
-							<iframe width="80%" height="315" src="https://www.youtube.com/embed/pxBQLFLei70?start=283" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+								<iframe
+									width='80%'
+									height='315'
+									src='https://www.youtube.com/embed/pxBQLFLei70?start=283'
+									title='YouTube video player'
+									frameborder='0'
+									allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+									allowfullscreen
+								></iframe>
 							</div>
 							<br />
 							<p className='t-medium bold'>Get Your Hands Dirty!</p>
 							<br />
 							<p>
-								The last couple of weeks I have not watched any tutorials and have spent all my coding time working on the new site. It strikes me once again how much I learn when I am trying to build or fix things. There is obviously a place for the courses, and they provide a good framework and understanding of basic concepts but where I really cement my knowledge and put it to the test is while I try to bring my ideas to life. This is when I learn better and more efficient ways to do things and it is where I get my ideas for new features that inevitably lead me down new learning paths.
+								The last couple of weeks I have not watched any tutorials and
+								have spent all my coding time working on the new site. It
+								strikes me once again how much I learn when I am trying to build
+								or fix things. There is obviously a place for the courses, and
+								they provide a good framework and understanding of basic
+								concepts but where I really cement my knowledge and put it to
+								the test is while I try to bring my ideas to life. This is when
+								I learn better and more efficient ways to do things and it is
+								where I get my ideas for new features that inevitably lead me
+								down new learning paths.
 							</p>
 							<br />
-							
-							
+
 							<div className='center'>
 								<span className='t-medium bold'>See ya next week!</span>
 							</div>
