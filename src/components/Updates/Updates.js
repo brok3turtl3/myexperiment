@@ -24,6 +24,58 @@ const Updates = () => {
 
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
+							<p className='t-medium bold'>Week 20 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Jan 30th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<p className='t-medium bold'>
+								I'm Late! I'm Late! For a Very Important Date!
+							</p>
+							<br />
+							<img src='./images/rabit.jfif' alt='rabbit' className='right' />
+							<p>
+							While I am not quite as riddled with anxiety as the rabbit was it is definitely something I am feeling. A prime example of things is this site. Anyone that has been looking for my "weekly" updates on Mondays is sure to have noticed that they have not been on time in quite a while. This one for instance is being posted about 13 days later than it should have been. My data has been collected on time and some ideas for updates set but the writing and posting have really fallen behind.
+							</p>
+							<br />
+							<p>
+							It is not that I have not been setting aside time to do it, it is that I have very quickly taken on more than my time can accommodate. As I spread myself thin everything is suffering as far as timelines and deadlines. I am learning a lot about what I can accomplish with my time and an important lesson with regard to making promises about what I can deliver. If these things were in a professional environment, they would not go over well or be allowed to continue for very long.
+							</p>
+							<br />
+							<p>
+							Once I get things a little more caught up (hopefully over the coming weeks) I will be more careful about taking on new projects or at least about the timelines and commitments I make with them.
+							</p>
+							<br />
+
+							<p className='t-medium bold'>Short And Sweet</p>
+							<br />
+							<p>
+								This week is going to be a short update. Things in general are
+								on track and I have made very good progress so far towards
+								almost every one of my goals. I am coming up on the halfway mark
+								from when I started everything and looking forward to doing a
+								more quantitative review of things. My focus over the next few
+								weeks will be to get myself reorganized with the priority being
+								to get things caught up and timelines re-evaluated if necessary.
+							</p>
+							<br />
+
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>
+									See ya next week(ish)! 😄
+								</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
 							<p className='t-medium bold'>Week 19 Update</p>
 							<br />
 
@@ -33,45 +85,89 @@ const Updates = () => {
 						<hr />
 
 						<div className='comments pt1'>
-							<p className='t-medium bold'>One Step Forward, 2 Burgers Back...</p>
-							<br />
-							<p>
-								So, it finally happened. The big diet snap! On Sunday night I went completely off the rails and ordered a bunch of takeout food and had a fair amount of red wine to wash it down. Not only off the low carb (keto) diet, but right off any kind of diet. I won't go into details but it was roughly 3 days worth of the calories I have been getting lately.</p>
-<br />
-								<p>
-								Needless to say, I am feeling a little sluggish today and the aftereffects are definitely reflected in the weekly weigh in. I am not going to beat myself up about it - I deserved it!
-							</p>
-							<br />
-							
 							<p className='t-medium bold'>
-								I've Got an Attitude Problem.
+								One Step Forward, 2 Burgers Back...
 							</p>
 							<br />
 							<p>
-								This week I re-read one of my favorite motivational books of all time - The PMA Effect. It was written by John Joseph McGowan. This guy has led some life... He grew up on hard streets immersed in violence and crime which eventually lead to prison. He then turns it all around with a major overhaul of how he approached life. 
+								So, it finally happened. The big diet snap! On Sunday night I
+								went completely off the rails and ordered a bunch of takeout
+								food and had a fair amount of red wine to wash it down. Not only
+								off the low carb (keto) diet, but right off any kind of diet. I
+								won't go into details but it was roughly 3 days worth of the
+								calories I have been getting lately.
 							</p>
 							<br />
-							<p>The forward of the book opens with, "John Joseph has an attitude problem. But John's problem isn't his attitude. It's yours.". And when you read the book, you have to eventually accept that it is. It takes work to maintain the kind of mindset that he does but when you do you can be so much more productive and happy.</p>
+							<p>
+								Needless to say, I am feeling a little sluggish today and the
+								aftereffects are definitely reflected in the weekly weigh in. I
+								am not going to beat myself up about it - I deserved it!
+							</p>
+							<br />
+
+							<p className='t-medium bold'>I've Got an Attitude Problem.</p>
+							<br />
+							<p>
+								This week I re-read one of my favorite motivational books of all
+								time - The PMA Effect. It was written by John Joseph McGowan.
+								This guy has led some life... He grew up on hard streets
+								immersed in violence and crime which eventually lead to prison.
+								He then turns it all around with a major overhaul of how he
+								approached life.
+							</p>
+							<br />
+							<p>
+								The forward of the book opens with, "John Joseph has an attitude
+								problem. But John's problem isn't his attitude. It's yours.".
+								And when you read the book, you have to eventually accept that
+								it is. It takes work to maintain the kind of mindset that he
+								does but when you do you can be so much more productive and
+								happy.
+							</p>
 							<br />
 							<p>This week I gave myself an attitude check!</p>
-							
-							
-							
+
 							<br />
 							<p className='t-medium bold'>My Hands Are Filthy!</p>
 							<br />
 							<p>
-								With the Keto site almost ready and going through the final tweaks and tests I spent a ton of my time this week at the keyboard coding again. So much so that everything else started to fall behind a bit. I always have to try and find that balance, but it felt good to really be "in the code" the last few weeks.
+								With the Keto site almost ready and going through the final
+								tweaks and tests I spent a ton of my time this week at the
+								keyboard coding again. So much so that everything else started
+								to fall behind a bit. I always have to try and find that
+								balance, but it felt good to really be "in the code" the last
+								few weeks.
 							</p>
 							<br />
-							<p>Once the site goes live, hopefully next week, I will shift some of my energy back to the mental health side of things. Reading, meditation, Yoga etc... It's time to unwind and rest my mind a little bit.</p>
+							<p>
+								Once the site goes live, hopefully next week, I will shift some
+								of my energy back to the mental health side of things. Reading,
+								meditation, Yoga etc... It's time to unwind and rest my mind a
+								little bit.
+							</p>
 
 							<br />
-							<p className='t-medium bold'>Even the Greats Get Writer's Block!</p>
+							<p className='t-medium bold'>
+								Even the Greats Get Writer's Block!
+							</p>
 							<br />
-							<p>So I was asked to write a technical article and I have a ton of ideas and things I know I want to say, but I have not written one line. I wrote some code that I plan to use as examples and snippets but not one line of the article itself. I really thought going in that this would be super easy and fast but I find I second guess everything that I try to say.</p>
+							<p>
+								So I was asked to write a technical article and I have a ton of
+								ideas and things I know I want to say, but I have not written
+								one line. I wrote some code that I plan to use as examples and
+								snippets but not one line of the article itself. I really
+								thought going in that this would be super easy and fast but I
+								find I second guess everything that I try to say.
+							</p>
 							<br />
-							<p>It is a great opportunity for me to build some tech credentials and obviously a great learning experience. I never thought it would be this tough! I am trying not to be too hard on myself as I know even accomplished authors and writers can run into this. I think next week I will just start spilling my brains out onto paper (keyboard) and then clean it up after.</p>
+							<p>
+								It is a great opportunity for me to build some tech credentials
+								and obviously a great learning experience. I never thought it
+								would be this tough! I am trying not to be too hard on myself as
+								I know even accomplished authors and writers can run into this.
+								I think next week I will just start spilling my brains out onto
+								paper (keyboard) and then clean it up after.
+							</p>
 							<br />
 
 							<div className='center'>
