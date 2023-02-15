@@ -24,6 +24,101 @@ const Updates = () => {
 
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
+							<p className='t-medium bold'>Week 21 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Feb 6th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<p className='t-medium bold'>The Ironman Streak Is Over...</p>
+							<br />
+							<img
+								src='./images/injuredman.jpg'
+								alt='rabbit'
+								className='right'
+							/>
+							<p>
+							I am pretty surprised it took this long to happen to be honest. In the physical state that I started in and how long it had been since I maintained any kind of consistent exercise routine, I should have probably had some injuries already. Well, this week it happened. Two of them just to remind me I am not invincible anymore.
+							</p>
+							<br />
+							<p>
+								On Tuesday, a few minutes into my treadmill work, I felt a sharp
+								pain in my left foot. I continued at a walk for a few more
+								minutes, which was probably a mistake, and then had to get off.
+								Today I got back on for the first time as I was feeling no pain
+								walking around the house but kept it to a slow walk with the
+								incline ramped up to try and get my heart rate going.
+							</p>
+							<br />
+							<p>
+								The second injury came on Thursday while doing push ups.
+								Something in my left tricep pulled and I had to stop
+								immediately. I stayed off it until today when I did a very slow
+								23 before I felt it starting to get irritated.
+							</p>
+							<br />
+							<p>
+								I will take things very easy this week and give myself room to
+								heal instead of pushing things and making recovery worse.
+								Hopefully, it feels better next week!
+							</p>
+							<br />
+							<p className='t-medium bold'>
+								Everything Is Difficult Until It Is Easy!
+							</p>
+							<br />
+
+							<p>
+							Webpages require styling. This is done with something called CSS. Up until a few weeks ago, I had been writing all my styling from scratch. Although I knew there were tools and libraries to help with this, I wanted to ensure I had a solid understanding of the basics first. I have now started learning to use two new frameworks. Besides making my life a little easier with my projects it is knowledge that a lot of employers would be looking for as well.
+							</p>
+							<br />
+							<div className='flex'>
+								<div>
+							<img
+								src='./images/bootstrap.svg'
+								alt='bootstrap'
+								className='left'
+							/>
+							<p>
+								<span className='bold'>BOOTSTRAP</span>
+							</p>
+							<br />
+							<p>
+								Bootstrap is one of, if not the most popular framework for CSS styling. It is component based which means  you are provided with large premade templates that handle multiple lines of CSS code at a time. It definitely makes for very fast layout design and removes 99% of the headache associated with making sure my site is responsive across multiple screen sizes.
+							</p></div></div>
+							<br />
+							<div className='flex'>
+								<div>
+							<img
+								src='./images/tailwind.svg'
+								alt='bootstrap'
+								className='left'
+								style={{backgroundColor: 'white', borderRadius: '15%'}}
+								
+							/>
+							<p>
+								<span className='bold'>TAILWIND</span>
+							</p>
+							<br />
+							<p>
+								Tailwind has been gaining a lot of momentum in the last couple years. It works a bit differently than Bootstrap in that it does not come with a lot of pre-built components. You are still applying CSS rules one at a time but with Tailwind, you can apply the rules directly to your HTML. It saves a TON of time and still allows for full customization of my website.
+							</p>
+							<br />
+							<p>I am still learning to use both but so far, I think I prefer Tailwind. I can already see how they would both have their places depending on what type of app you are building, how quickly you need to build it, how complicated the UI design is, and other factors. Although I will probably never be a front-end design person, I think it will be good for me to have experience with both under my belt.</p>
+							</div></div>
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
 							<p className='t-medium bold'>Week 20 Update</p>
 							<br />
 
@@ -39,15 +134,32 @@ const Updates = () => {
 							<br />
 							<img src='./images/rabit.jfif' alt='rabbit' className='right' />
 							<p>
-							While I am not quite as riddled with anxiety as the rabbit was it is definitely something I am feeling. A prime example of things is this site. Anyone that has been looking for my "weekly" updates on Mondays is sure to have noticed that they have not been on time in quite a while. This one for instance is being posted about 13 days later than it should have been. My data has been collected on time and some ideas for updates set but the writing and posting have really fallen behind.
+								While I am not quite as riddled with anxiety as the rabbit was
+								it is definitely something I am feeling. A prime example of
+								things is this site. Anyone that has been looking for my
+								"weekly" updates on Mondays is sure to have noticed that they
+								have not been on time in quite a while. This one for instance is
+								being posted about 13 days later than it should have been. My
+								data has been collected on time and some ideas for updates set
+								but the writing and posting have really fallen behind.
 							</p>
 							<br />
 							<p>
-							It is not that I have not been setting aside time to do it, it is that I have very quickly taken on more than my time can accommodate. As I spread myself thin everything is suffering as far as timelines and deadlines. I am learning a lot about what I can accomplish with my time and an important lesson with regard to making promises about what I can deliver. If these things were in a professional environment, they would not go over well or be allowed to continue for very long.
+								It is not that I have not been setting aside time to do it, it
+								is that I have very quickly taken on more than my time can
+								accommodate. As I spread myself thin everything is suffering as
+								far as timelines and deadlines. I am learning a lot about what I
+								can accomplish with my time and an important lesson with regard
+								to making promises about what I can deliver. If these things
+								were in a professional environment, they would not go over well
+								or be allowed to continue for very long.
 							</p>
 							<br />
 							<p>
-							Once I get things a little more caught up (hopefully over the coming weeks) I will be more careful about taking on new projects or at least about the timelines and commitments I make with them.
+								Once I get things a little more caught up (hopefully over the
+								coming weeks) I will be more careful about taking on new
+								projects or at least about the timelines and commitments I make
+								with them.
 							</p>
 							<br />
 
@@ -67,9 +179,7 @@ const Updates = () => {
 							<br />
 
 							<div className='center'>
-								<span className='t-medium bold'>
-									See ya next week(ish)! 😄
-								</span>
+								<span className='t-medium bold'>See ya next week(ish)! 😄</span>
 							</div>
 						</div>
 					</div>

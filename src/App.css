@@ -17,6 +17,13 @@ p{
   
 }
 
+.flex{
+  display: flex;
+}
+.column{
+  flex-direction: column;
+}
+
 .p1{
   padding: 1rem;
 }

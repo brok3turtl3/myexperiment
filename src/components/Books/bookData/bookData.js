@@ -1,5 +1,41 @@
 export const books = [
     {
+        title: "Cobalt Red",
+        author: "Siddharth Kara",
+        genre: "Social Commentary",
+        year: 2023,
+        date: 2023,
+        difficulty: "★★",
+        rating: "★★★★★",
+        comments: `Any device powered by a rechargeable lithium-ion battery requires cobalt for manufacture. Roughly 75% of the world's supply of cobalt comes from the Congo. The conditions under which some of the supply is obtained are appalling. Child labor economically forced slave labor, and inhumane working conditions are commonplace. Nobody wants to take responsibility for it, so we all bear some of the blame. Truly heart-wrenching to read and I feel guilty for being a part of the problem.`,
+        coverPic: "./images/bookImages/cobaltred.jpg",
+        ammazonLink: "https://www.amazon.ca/Cobalt-Red-Blood-Congo-Powers/dp/1250284309/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1676481477&sr=8-1"
+    },
+    {
+        title: "The Secret",
+        author: "Rhonda Byrne",
+        genre: "Philosophy - Spirituality",
+        year: 2006,
+        date: 2023,
+        difficulty: "★",
+        rating: "★★★★",
+        comments: `Every year I ask for books for Christmas and this was one I received this year. The woman that gave it to me swears by it. While I am not sure that I believe we can cause things to physically manifest themselves in our lives by our thoughts alone, I do believe in the power of positive thought and visualization.`,
+        coverPic: "./images/bookImages/thesecret.jpg",
+        ammazonLink: "https://www.amazon.ca/Secret-Rhonda-Byrne/dp/1582701709/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1676480268&sr=8-1"
+    },
+    {
+        title: "The Hunger",
+        author: "Alma Katsu",
+        genre: "Fiction",
+        year: 2018,
+        date: 2023,
+        difficulty: "★",
+        rating: "★★★★★",
+        comments: `It was time to get a little fix of fiction in the mix! The Hunger takes place during a BRUTAL time in America's history.  Many people were opting to make a perilous journey from the East Coast to West and encountered all sorts of dangers. Once I started the book, I could not put it down. Chilling.`,
+        coverPic: "./images/bookImages/thehunger.jpg",
+        ammazonLink: "https://www.amazon.ca/Hunger-Alma-Katsu/dp/0735212511/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1676477326&sr=8-1"
+    },
+    {
         title: "What We Owe the Future",
         author: "William MacAskill",
         genre: "Philosophy - Social Commentary",

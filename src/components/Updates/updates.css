@@ -56,6 +56,14 @@
 	float: right;
 	margin-left: 1rem;
 	margin-bottom: 1rem;
+	max-width:35%;
+}
+
+.left{
+	float: left;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+	width:25%;
 }
 
 @media screen and (max-width: 800px) {
