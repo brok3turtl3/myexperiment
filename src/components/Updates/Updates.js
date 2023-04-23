@@ -24,6 +24,650 @@ const Updates = () => {
 
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
+							<p className='t-medium bold'>Week 31 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Apr 17th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/04-17/exposing.webp'
+									alt='construction signs'
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>I Am Exposing Myself!</p>
+							<br />
+
+							<p>
+								I have never thought of myself as a shy person or lacking any
+								kind of social confidence. As it turns out I am capable of
+								feeling some pretty extreme social anxiety. While researching
+								bootcamps and mock interviews to get ready for my eventual
+								serious job search it became apparent that a skillset I was not
+								working on was actually coding with or in front of other people.
+							</p>
+							<br />
+							<p>
+								To start working on this I have started getting on video chats
+								with other coders going through the same process with one of the
+								bootcamps I applied to. I also started attending live workshops
+								with other coders. I was painfully anxious before the first
+								workshop I attended. Imposter syndrome was in FULL effect!
+							</p>
+							<br />
+							<p>
+								Thankfully, even after only a few experiences, it has started
+								getting easier. The nerves only start to creep up a few minutes
+								before events as opposed to hours of stress leading up to it. As
+								with many things it seems the more I do it the less it will
+								affect me. Growth really does come from getting out of comfort
+								zones.
+							</p>
+
+							<br />
+							<div className='center'>
+								<iframe
+									width='560'
+									height='315'
+									src='https://www.youtube.com/embed/rl_NpdAy3WY'
+									title='YouTube video player'
+									frameborder='0'
+									allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+									allowfullscreen
+								></iframe>
+							</div>
+							<br />
+							<p className='t-medium bold center'>You Like Me!</p>
+							<br />
+							<p>
+								I did meet and greets with two bootcamps this past week. Both
+								were fairly casual and basically a "get to know me" session. One
+								of them was a little more interested in what types of support
+								mechanisms I had to help cope with the inevitable stresses and
+								frustrations that will come with the rogorous learning tempo. I
+								liked that they asked about that. It made me feel that one, they
+								cared about the mental health of their students, and two, that
+								their ciriculum is sufficiently diffcult to prepare me well.
+								Both bootcamps invited me to the next stage of the admissions
+								process.
+							</p>
+							<br />
+							<p>
+								While I do not think many are turned away at this stage it was
+								still somewhat gratifying and felt like I started down the path.
+								There are still technical interviews to pass to ensure I am
+								capable of handling their program. Both programs are meant to
+								prepare for mid to senior levels positions so a certain amount
+								of knowledge is expected going in. One of them said upfront that
+								I will likely fail my first attempt at the technical interview.
+								They allow up to three tries. I have scheduled technical
+								interviews for both.
+							</p>
+							<br />
+							<p className='t-medium bold center'>T.U.T - Time Under Tension</p>
+							<br />
+							<img
+								src='./images/updateImages/04-17/tutimage.png'
+								alt='elephant'
+								className='right'
+							/>
+
+							<p>
+								I have decided it is time to add a more focused routine to my
+								resistance training. Ill post up a detailed outline in the next
+								couple weeks. I will be training differently than I never did
+								when I was younger. Which, I hate to admit, makes sense at my
+								age. My concerns are becoming more about longevity rather than
+								size and one rep maxes.
+							</p>
+							<br />
+							<p>
+								Time under tension is just a fancy way of saying how long your
+								muscle was flexed during any given repitition of an exercise.
+								So, slowing the movement down increases the time under tension.
+								While there are plenty of studies that indicate this can be an
+								affect way to build muscle mass, I will be using moderate to
+								light weights to hopefully increase endurance while ecouraging
+								long and lean muscle growth.
+							</p>
+							<br />
+							<p>
+								Pushing that big weight is addicting and a rush when you hit
+								those new highs though, so we will see how long I stick to this
+								routine!
+							</p>
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 30 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Apr 10th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/04-10/graduation.webp'
+									alt='construction signs'
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>I'm Going to Harvard!</p>
+							<br />
+
+							<p>
+								While technically true, somewhat misleading. While looking
+								through online learning resources and websites I came across a
+								recomendation to check out some of the free courses being
+								offered online from Harvard and a number of other Ivy League
+								schools in the US. There are actually a ton of them available
+								with the choice to audit completely for free or for reasonable
+								fees you can obtain certificates at the end once the course is
+								complete.
+							</p>
+							<br />
+							<p>
+								I landed on an Introduction to Computer Science Course (CS50) at
+								Harvard. It is extremely high quality and the professor is very
+								engaging. There are automated unit tests and projects to
+								complete very week. I have already learned some things in week
+								one that I may never actually apply in a professional
+								environment but I think gaining a better understanding of all
+								the things that were built and re-built to get us to where we
+								are today will be helpful.
+							</p>
+
+							<br />
+							<p className='t-medium bold center'>The Elephant in the Room</p>
+							<br />
+							<img
+								src='./images/updateImages/04-10/elephant.jpg'
+								alt='elephant'
+								className='right'
+							/>
+							<p>
+								So how bad is it? Am I back to the size of an elephant? Can I
+								jog more than a minute at a time? Can I code "Hello world!"
+								quality programs? Well, it is not great. I definitely took a hit
+								on a lot of my performance metrics. My weight got back up to 243
+								pounds. A weight I had not seen since December. Body fat did not
+								seem to suffer quite as bad a hit, so some of that weight is
+								just water and hopefully I can shed some of it pretty quick.
+								Cardio took a real hit as well. I had been injured for a couple
+								weeks before I stopped everything so it was nearly a month and a
+								half not being on the treadmill. As for coding my brain was
+								definitely a little foggy but even after a week of steady coding
+								every day my confidence is returning quickly.
+							</p>
+							<br />
+							<p>
+								While the break did not help put me in a position where it will
+								be easy to hit some of my already lofty targets I think I will
+								be able to recover quickly and put in a good push until the end
+								of the year. I am going to be careful about keeping my routines
+								manageable and really focus on watching my mental state while I
+								ramp back up. I do not think I would come back from another
+								burnout like that.
+							</p>
+
+							<br />
+							<p className='t-medium bold center'>
+								Everything Has a First Step
+							</p>
+							<br />
+
+							<p>
+								I narrowed my bootcamp options down to just a couple. I sent in
+								applications to both to get the process started as one of them
+								in particular can be a long admissions process. If I am going to
+								do a bootcamp, I need to do it soon as my finances and wife's
+								patience will only last so long! Just joking about the patience
+								thing. She has been extremely supportive of this move and is
+								happy to see me pursuing something I have always talked about. I
+								think after 20+ years she would be pretty happy to not hear me
+								talk about it any more! Finance concerns are a real thing
+								though. And that also weighs into the selection process. There
+								is quite a difference between camps price wise.
+							</p>
+							<br />
+							<p>More updates to come on this!</p>
+
+							<br />
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 29 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Apr 3rd, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/04-03/bootcamp.webp'
+									alt='construction signs'
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>Bootcamp!</p>
+							<br />
+
+							<p>
+								This past week I spent a lot more time coding. A lot of it was
+								going back and reviewing things I had already learned but
+								because I did not spend much time reinforcing the concepts I
+								felt a step back would be good.
+							</p>
+							<br />
+							<p>
+								While really having a look over my code and things I had built
+								one of the things I realized is that while I have built up a
+								real string understanding of most the underlying concepts and
+								requirements to build a full stack web application, I am pretty
+								"messy". So far, all my learning has come from a variety of
+								sources (YouTube, Udemy, Codecademy) and not all what I would
+								call up to date. In short, I lack a real grounding in "best
+								practices".
+							</p>
+							<br />
+							<p>
+								Also, I am getting close to the point where I will want to
+								seriously start pursuing employment opportunities. I have known
+								from the beginning this part would be challenging given my lack
+								of formal education. It can definitely be done but it is a
+								hurdle I will face for sure.
+							</p>
+							<br />
+							<p>
+								To help with these things and also to really start building out
+								my social circle in the industry I have started looking at
+								bootcamp options. There are a ton of them out there and it is
+								almost overwhelming when waying the pros and cons and even there
+								overall value at all. If I am going to do it, it will be soon.
+								Stay tuned!
+							</p>
+							<br />
+							<p className='t-medium bold'>The Bluebird Song</p>
+							<br />
+							<img
+								src='./images/updateImages/04-03/twitter.png'
+								alt='rabbit'
+								className='left'
+							/>
+							<p>
+								One of the things that I dropped completely was my efforts on
+								Twitter. It has been a long time since I have had postive
+								feelings about social media in general, mostly because of my own
+								addictive personality and how much I can get sucked in to the
+								endless swiping. In fact it has been almost a year since I have
+								had a cell phone. After the initial shock and withdrawl it was
+								and is pretty liberating not to constantly find myself
+								mindlessly scrolling through algo-generated "soft" content.
+								Having said this, they can being very powerful tools when used
+								respoisibly.
+							</p>
+							<br />
+							<p>
+								I still believe there is great value in using a platform such as
+								twitter to connect with and build a reputation within the tech
+								community that I am trying to break into. During my break my
+								follower count actually dropped by 10% - Hopefully just Elon
+								continuing to sweep out the bots. I have started to tweet again
+								and will try to get a reasonable plan together that does not
+								make it feel like so much of a chore and also does not suck me
+								in too deeply.
+							</p>
+							<br />
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/04-03/cleanenergy.jpg'
+									alt='construction signs'
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>Clean Energy</p>
+							<br />
+
+							<p>
+								Energy drinks are something I have struggled with to varying
+								degrees since I started drinking them in my 20's. I have
+								mentioned it in other updates but I will say it again, I have a
+								very addictive, all in, personality. It applies to everything.
+								Sometmes it can be a great benefit, as long as I channel it
+								properly. For instance while learning to code it has been a
+								massive contributor to the speed that I have been learning at.
+								When it comes to energy drinks it has not been good for me.
+							</p>
+							<br />
+							<p>
+								In the spirit of celebrating wins I am now a little over two
+								months without having one! That is probably the longest I ever
+								gone without one since I first started drinking them. I will not
+								go into detail about how much I have used them at times but
+								suffice it to say it was clearly unhealthy.
+							</p>
+							<br />
+							<p>
+								I do find the type of tempo I am keeping it takes work and help
+								to maintain focus and energy leavels. This can come from a lot
+								of different sources starting with a clean diet, exercise, less
+								alcohol and better sleep. Those will be my cornerstones but I
+								will, much to my absolute disgust, introduce tea into my daily
+								routine. Since I was a child I just cannot stand the sight or
+								smell of it. Having said that there are numerous benefits to
+								including teas into my diet, not the least of which is helping
+								to regulate energy levels throughout the day. *gag*
+							</p>
+							<br />
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 28 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Mar 27th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/03-27/grandreopening.jpg'
+									alt='construction signs'
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>
+								WE ARE PREPARING TO REOPEN!
+							</p>
+							<br />
+
+							<p>
+								Wow! Just what the doctor ordered! I guess I did not realize how
+								badly I was becomming burned out and even somewhat resentful of
+								some of the expectations I had put on myself. With the exception
+								of a couple of weeks off in November due to a solid hit of Covid
+								I had been going pretty hard since September. It was four months
+								of 50hrs+ a week of coding on top of everything else.
+							</p>
+							<br />
+							<p>
+								I would say that my plan has worked. I stripped down my routines
+								to the most basic. First I got back on track with journaling and
+								meditation habits along with some very light exercise. I reduced
+								the coding to a minimum. I would say maybe 5-10 hours a week but
+								I stopped monitoring it to take the pressure off completely. It
+								took a couple weeks to start to get my diet and drinking habits
+								cleaned up but I think I finally have a handle on that again as
+								well. I am feeling a solid sense of motivation and positivity
+								about the whole process again and I feel I am ready and eager to
+								ramp up the efforts again.
+							</p>
+							<br />
+							<p>
+								I will say this. I have come a LONG way! I am not sure if I hit
+								my initial goals but I am psitive I will finish the second half
+								of this strong. Although it led to a bit of a crash and maybe
+								even close to a complete failure, I have also come out with a
+								better appreciattion of how mental states can creep up on you
+								without even realizing it is happening.
+							</p>
+							<br />
+							<div className='center'>
+								<span className='t-medium bold'>See ya NEXT WEEK!!!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 24 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Feb 27th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/02-27/construction.jpg'
+									alt='construction signs'
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>
+								WE ARE CLOSING FOR RENOVATIONS
+							</p>
+							<br />
+
+							<p>
+								I have decided to step away from this site for the moment. My
+								intention is to get back to posting updates but at the moment it
+								just seems to be adding to the pressure that I am already
+								feeling from all the other commitments falling short.
+							</p>
+							<br />
+							<p>
+								Everything is happening sporadically and all my goals are
+								suffering from it. I am going to peel back a bunch of my daily
+								routines and try to rebuild my motivation and my habits from the
+								ground up starting with just a few basic morning routines and go
+								from there.
+							</p>
+							<br />
+							<p>
+								Hopefully at the end of the experiment in September this will
+								end up being on chapter in a story that ends with a huge
+								comeback!
+							</p>
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya soon!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 23 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Feb 20th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/02-20/longwinterroad.jpg'
+									alt='rabbit'
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold'>The Long Winter Road</p>
+							<br />
+
+							<p>
+								I am still struggling with motivation. My morning routines have
+								become incosistent which is fueling the problem. My injuries
+								seem to have healed for the most part but I did not get back
+								into the swing of things exercise wise. My active coding has
+								dropped to almost nothing as well. I have taken in a few
+								lectures and watched some videos but very little in the way of
+								actually build stuff.
+							</p>
+							<br />
+							<p>
+								This time of year is typically difficult for me (and many others
+								I think). The excitement and all the awesome family time over
+								the Christmas hollidays and New Year's comes to an end and with
+								the "buzz" wearing off it can be a bit of a come down. Combine
+								that with the fact there is very little sun and blistering cold
+								temperatures and it can be easy to slide into a rut.
+							</p>
+							<br />
+
+							<p className='t-medium bold'>At Least That's One Thing</p>
+							<br />
+
+							<p>
+								In the midst of my productivity crisis I have still been reading
+								a ton. I think you really have to hold on to the wins at times
+								like this. I have several really good books on the go and some
+								lined up that I am really eager to get into. It may be time to
+								get some more motivational and self-help books into the rotation
+								and see if that helps get my mind right.
+							</p>
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 22 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Feb 13th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<p className='t-medium bold'>Bzzzzzzz.....</p>
+							<br />
+							<img
+								src='./images/updateImages/02-13/dlrhivelogo.png'
+								alt='rabbit'
+								className='left'
+							/>
+							<p>
+								Although I still have some work to finish the Keto Corner site I
+								have started working on another web app. The idea for this one
+								has been kicking around in my head for awhile now. I am always
+								reading about how, if you can, combining two or more skills to
+								produce a service or content can really increase the value of
+								the results.
+							</p>
+							<br />
+							<p>
+								I worked in the automotive industry for twenty years and looking
+								back over that career one of the common struggles with sales
+								teams and managers is maintaining a reliable stream of
+								communication and accountability. This app will be called
+								DealerHive or SalesHive (I have not decided yet) and be a tool
+								to help with that. The core of the app will be to create a
+								"shared accountability" between all levels of the team.
+							</p>
+							<br />
+							<p>
+								I am using the newest versions of React and Redux sate
+								management for this project so it will bring my skills in that
+								regard to current tech (for now lol) and I have decdided to use
+								Tailwind for the styling.
+							</p>
+							<br />
+
+							<p className='t-medium bold'>Still On the Mend</p>
+							<br />
+
+							<p>
+								This week I did not engage in any type of exercise. That habit
+								is built up to the point with my daily/weekly routines that it
+								was pretty depressing to not be able to do it. I feel like it is
+								a big setback (probably not as bad as it feels). I definitely do
+								not want to agrivate the injuries so I will be very careful when
+								I start to reintroduce anything back into the routine.
+							</p>
+							<br />
+
+							<p>
+								<span className='t-medium bold'>
+									My Cellphone Is Guilt Tripping Me
+								</span>
+							</p>
+							<br />
+							<img
+								src='./images/updateImages/02-13/cobaltred.jpg'
+								alt='bootstrap'
+								className='left'
+							/>
+
+							<p>
+								I started reading the book "Cobalt Red" this week and it is
+								making stomach turn. I know there are bad actors in the world
+								when it comes to labor conditions and pay scales but this book
+								is really eye opening.
+							</p>
+							<br />
+							<p>
+								It is centered around the history and present conditions of
+								cobalt mining in the Democratic Republic of the Congo. The
+								author takes great personal risk to get up and close with the
+								people involved at all levels.
+							</p>
+
+							<br />
+							<p>
+								Cobalt is an extremely valuable and useful mineral. Most
+								noteably it is required to make the rechargeable batteries that
+								we all take for granted in our day to day lives and our created
+								demand for it contributes in a tangible way to the continued
+								oppression of an entire country.
+							</p>
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
 							<p className='t-medium bold'>Week 21 Update</p>
 							<br />
 
@@ -41,7 +685,12 @@ const Updates = () => {
 								className='right'
 							/>
 							<p>
-							I am pretty surprised it took this long to happen to be honest. In the physical state that I started in and how long it had been since I maintained any kind of consistent exercise routine, I should have probably had some injuries already. Well, this week it happened. Two of them just to remind me I am not invincible anymore.
+								I am pretty surprised it took this long to happen to be honest.
+								In the physical state that I started in and how long it had been
+								since I maintained any kind of consistent exercise routine, I
+								should have probably had some injuries already. Well, this week
+								it happened. Two of them just to remind me I am not invincible
+								anymore.
 							</p>
 							<br />
 							<p>
@@ -72,43 +721,72 @@ const Updates = () => {
 							<br />
 
 							<p>
-							Webpages require styling. This is done with something called CSS. Up until a few weeks ago, I had been writing all my styling from scratch. Although I knew there were tools and libraries to help with this, I wanted to ensure I had a solid understanding of the basics first. I have now started learning to use two new frameworks. Besides making my life a little easier with my projects it is knowledge that a lot of employers would be looking for as well.
+								Webpages require styling. This is done with something called
+								CSS. Up until a few weeks ago, I had been writing all my styling
+								from scratch. Although I knew there were tools and libraries to
+								help with this, I wanted to ensure I had a solid understanding
+								of the basics first. I have now started learning to use two new
+								frameworks. Besides making my life a little easier with my
+								projects it is knowledge that a lot of employers would be
+								looking for as well.
 							</p>
 							<br />
 							<div className='flex'>
 								<div>
-							<img
-								src='./images/bootstrap.svg'
-								alt='bootstrap'
-								className='left'
-							/>
-							<p>
-								<span className='bold'>BOOTSTRAP</span>
-							</p>
-							<br />
-							<p>
-								Bootstrap is one of, if not the most popular framework for CSS styling. It is component based which means  you are provided with large premade templates that handle multiple lines of CSS code at a time. It definitely makes for very fast layout design and removes 99% of the headache associated with making sure my site is responsive across multiple screen sizes.
-							</p></div></div>
+									<img
+										src='./images/bootstrap.svg'
+										alt='bootstrap'
+										className='left'
+									/>
+									<p>
+										<span className='bold'>BOOTSTRAP</span>
+									</p>
+									<br />
+									<p>
+										Bootstrap is one of, if not the most popular framework for
+										CSS styling. It is component based which means you are
+										provided with large premade templates that handle multiple
+										lines of CSS code at a time. It definitely makes for very
+										fast layout design and removes 99% of the headache
+										associated with making sure my site is responsive across
+										multiple screen sizes.
+									</p>
+								</div>
+							</div>
 							<br />
 							<div className='flex'>
 								<div>
-							<img
-								src='./images/tailwind.svg'
-								alt='bootstrap'
-								className='left'
-								style={{backgroundColor: 'white', borderRadius: '15%'}}
-								
-							/>
-							<p>
-								<span className='bold'>TAILWIND</span>
-							</p>
-							<br />
-							<p>
-								Tailwind has been gaining a lot of momentum in the last couple years. It works a bit differently than Bootstrap in that it does not come with a lot of pre-built components. You are still applying CSS rules one at a time but with Tailwind, you can apply the rules directly to your HTML. It saves a TON of time and still allows for full customization of my website.
-							</p>
-							<br />
-							<p>I am still learning to use both but so far, I think I prefer Tailwind. I can already see how they would both have their places depending on what type of app you are building, how quickly you need to build it, how complicated the UI design is, and other factors. Although I will probably never be a front-end design person, I think it will be good for me to have experience with both under my belt.</p>
-							</div></div>
+									<img
+										src='./images/tailwind.svg'
+										alt='bootstrap'
+										className='left'
+										style={{ backgroundColor: 'white', borderRadius: '15%' }}
+									/>
+									<p>
+										<span className='bold'>TAILWIND</span>
+									</p>
+									<br />
+									<p>
+										Tailwind has been gaining a lot of momentum in the last
+										couple years. It works a bit differently than Bootstrap in
+										that it does not come with a lot of pre-built components.
+										You are still applying CSS rules one at a time but with
+										Tailwind, you can apply the rules directly to your HTML. It
+										saves a TON of time and still allows for full customization
+										of my website.
+									</p>
+									<br />
+									<p>
+										I am still learning to use both but so far, I think I prefer
+										Tailwind. I can already see how they would both have their
+										places depending on what type of app you are building, how
+										quickly you need to build it, how complicated the UI design
+										is, and other factors. Although I will probably never be a
+										front-end design person, I think it will be good for me to
+										have experience with both under my belt.
+									</p>
+								</div>
+							</div>
 							<br />
 
 							<div className='center'>

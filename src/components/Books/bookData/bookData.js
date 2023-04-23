@@ -1,5 +1,43 @@
 export const books = [
     {
+        title: "Essentialism",
+        author: "Greg McKeown",
+        genre: "Self Help",
+        year: 2014,
+        date: 2023,
+        difficulty: "★",
+        rating: "★★★★★",
+        comments: `Dealing with my recent burnout from stacking up too many expectations and spreading myself too thin, this book was extremely topical and helpful. The author provides some simple tools and strategies to help focus efforts on prioritzed goals, organize and simplify our routines, embrace the growth mindset and what I found to be most helpful prioritzing self-care. I think if I had read this book months earlier I would not have had to step away for so long. Highly recommend.`,
+        coverPic: "./images/bookImages/essentialism.jpg",
+        ammazonLink: "https://www.amazon.ca/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137404/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1682254384&sr=8-1"
+    },
+    {
+        title: "Think Like a Monk",
+        author: "Jay Shetty",
+        genre: "Self Help",
+        year: 2020,
+        date: 2023,
+        difficulty: "★★",
+        rating: "★★★★",
+        comments: `Written by a former Monk and filled with very practical advice. The book is divided up into three parts that correspond to the different stages of monk training : Let Go, Grow, and Give. The first part is very calming, the second part is very motivational and well, I am still working on the third part which is living a life of service to others. Baby steps!
+        `,
+        coverPic: "./images/bookImages/thinklikeamonk.jpg",
+        ammazonLink: "https://www.amazon.ca/Think-Like-Monk-Export-Shetty/dp/1982149817/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1682253301&sr=8-1"
+    },
+    {
+        title: "Wilderness and the American Mind",
+        author: "Roderick Frazier Nash",
+        genre: "Social Commentary",
+        year: 1967,
+        date: 2023,
+        difficulty: "★★★",
+        rating: "★★★★★",
+        comments: `I found the book to be very interesting. It gives a historical account of how our perspective of "wilderness" has evolved since colonizing North America. Our view on nature and how we should treat our environment has shifted along with the current cultural, economic and political conditions. Also of note that 55 years after being written the book is still reference material for many university environmental conservation programs.
+        `,
+        coverPic: "./images/bookImages/wildernessandtheamericanmind.jpg",
+        ammazonLink: "https://www.amazon.ca/Wilderness-American-Mind-WILDERNESS-Paperback/dp/B00QPVFUIA/ref=sr_1_5?crid=3RIC31TLK8EA3&keywords=wilderness+and+the+american+mind&qid=1682249850&sprefix=winderness+and+the+american+mind%2Caps%2C69&sr=8-5"
+    },
+    {
         title: "Cobalt Red",
         author: "Siddharth Kara",
         genre: "Social Commentary",

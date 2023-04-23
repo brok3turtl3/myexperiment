@@ -66,6 +66,19 @@
 	width:25%;
 }
 
+.image-container{
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	
+}
+
+.center{
+	width: 95%;
+	
+	
+}
+
 @media screen and (max-width: 800px) {
 
 }
