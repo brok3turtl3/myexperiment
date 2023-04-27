@@ -56,7 +56,7 @@ export const books = [
         year: 2006,
         date: 2023,
         difficulty: "★",
-        rating: "★★★★",
+        rating: "★★★",
         comments: `Every year I ask for books for Christmas and this was one I received this year. The woman that gave it to me swears by it. While I am not sure that I believe we can cause things to physically manifest themselves in our lives by our thoughts alone, I do believe in the power of positive thought and visualization.`,
         coverPic: "./images/bookImages/thesecret.jpg",
         ammazonLink: "https://www.amazon.ca/Secret-Rhonda-Byrne/dp/1582701709/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1676480268&sr=8-1"
