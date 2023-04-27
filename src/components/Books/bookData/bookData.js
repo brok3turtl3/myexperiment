@@ -1,5 +1,17 @@
 export const books = [
     {
+        title: "Fooled by Randomness",
+        author: "Nicholas Taleb",
+        genre: "Science",
+        year: 2004,
+        date: 2023,
+        difficulty: "★★★",
+        rating: "★★★★★",
+        comments: `I was not sure how to categorize this. I put it in Science but could easily be called a self help book or even social commentary. The author argues that people tend to underestimate the role of chance and randomness in life, particularly in the fields of finance and business. He also stresses the importance of being skeptical of experts who claim to have all the answers, as they may not fully understand the role of randomness in their fields.`,
+        coverPic: "./images/bookImages/fooledbyrandomness.jpg",
+        ammazonLink: "https://www.amazon.ca/Fooled-Randomness-Hidden-Chance-Markets/dp/1400067936/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1682603306&sr=8-1"
+    },
+    {
         title: "Essentialism",
         author: "Greg McKeown",
         genre: "Self Help",
