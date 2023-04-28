@@ -46,35 +46,80 @@ const Updates = () => {
 							<br />
 
 							<p>
-								It is not quite as catchy a song when you sing it like that... Last week I decided to start a C++ course. I did a little coding in C++ when I was super young, and it actually feels a little nostalgic! I thought broadening my language base would be good and C++ is a great one to have in the tool belt.
-								</p>
-								<br />
-								<p>C++ is a high-level programming language used to develop software for a variety of applications. It is an object-oriented language that was designed to be a faster and more efficient alternative to the original C programming language. It is widely used in developing operating systems (Windows), web browsers (Chrome and Safari for example), and video games.
+								It is not quite as catchy a song when you sing it like that...
+								Last week I decided to start a C++ course. I did a little coding
+								in C++ when I was super young, and it actually feels a little
+								nostalgic! I thought broadening my language base would be good
+								and C++ is a great one to have in the tool belt.
 							</p>
 							<br />
-							<p>One of the key features of C++ is its ability to work with memory directly, which allows programmers to write code that is highly optimized for performance. It also has a large standard library of pre-written code that can be used to perform common tasks, such as input/output operations, string manipulation, and math functions. C++ is a versatile language that can be used for a wide range of programming tasks, from small scripts to large-scale software development projects.</p>
+							<p>
+								C++ is a high-level programming language used to develop
+								software for a variety of applications. It is an object-oriented
+								language that was designed to be a faster and more efficient
+								alternative to the original C programming language. It is widely
+								used in developing operating systems (Windows), web browsers
+								(Chrome and Safari for example), and video games.
+							</p>
 							<br />
-							<p className='t-medium bold center'>Bootcamp Technical Interviews Done!</p>
+							<p>
+								One of the key features of C++ is its ability to work with
+								memory directly, which allows programmers to write code that is
+								highly optimized for performance. It also has a large standard
+								library of pre-written code that can be used to perform common
+								tasks, such as input/output operations, string manipulation, and
+								math functions. C++ is a versatile language that can be used for
+								a wide range of programming tasks, from small scripts to
+								large-scale software development projects.
+							</p>
+							<br />
+							<p className='t-medium bold center'>
+								Bootcamp Technical Interviews Done!
+							</p>
 							<br />
 							<img
 								src='./images/updateImages/04-24/exam.jpg'
 								alt='elephant'
 								className='left'
 							/>
-							
-							
+
 							<p>
-								My first technical interviews are done. The amount of anxiety I felt leading up to the last one was almost debilitating. I think it was because it was my first choice in bootcamps, I knew the content would be challenging and I also know that it has a high failure rate on first attempts. 
+								My first technical interviews are done. The amount of anxiety I
+								felt leading up to the last one was almost debilitating. I think
+								it was because it was my first choice in bootcamps, I knew the
+								content would be challenging and I also know that it has a high
+								failure rate on first attempts.
 							</p>
 							<br />
 							<p>
-							I am not sure I would even describe one of them as a technical interview. It was more of a basic test of logical thinking and problem-solving skills. There was no actual coding involved. I am positive I have passed that one and will be offered a spot in the bootcamp.
-							</p>
-							<br /><p>
-							The next one I did was a different animal. It was probably a little more representative of what a technical interview with a potential employer would look and feel like. For the first ten or fifteen minutes I was having trouble remembering basic syntax and built in functions. Once I completed a few of the problems and got the nerves settled it was getting better.
+								I am not sure I would even describe one of them as a technical
+								interview. It was more of a basic test of logical thinking and
+								problem-solving skills. There was no actual coding involved. I
+								am positive I have passed that one and will be offered a spot in
+								the bootcamp.
 							</p>
 							<br />
-							<p>The bootcamp I am leaning towards places a high value on their candidates being able to communicate effectively while they code. Going in I knew this would probably be my weak spot as I have never done it. All my coding conversations have always been in my head and silent! While I completed all the actual problems without help or direction, I know that my communication could probably have been better. I think I will probably be asked to do a second round technical interview so in the meantime I will focus hard on getting some pari programming in and really work on my communication skills.</p>
+							<p>
+								The next one I did was a different animal. It was probably a
+								little more representative of what a technical interview with a
+								potential employer would look and feel like. For the first ten
+								or fifteen minutes I was having trouble remembering basic syntax
+								and built in functions. Once I completed a few of the problems
+								and got the nerves settled it was getting better.
+							</p>
+							<br />
+							<p>
+								The bootcamp I am leaning towards places a high value on their
+								candidates being able to communicate effectively while they
+								code. Going in I knew this would probably be my weak spot as I
+								have never done it. All my coding conversations have always been
+								in my head and silent! While I completed all the actual problems
+								without help or direction, I know that my communication could
+								probably have been better. I think I will probably be asked to
+								do a second round technical interview so in the meantime I will
+								focus hard on getting some pari programming in and really work
+								on my communication skills.
+							</p>
 							<br />
 							<p className='t-medium bold center'>I Love Every Book I Read.</p>
 							<br />
@@ -85,16 +130,32 @@ const Updates = () => {
 							/>
 
 							<p>
-								While I was updating the books section this week it occurred to me that I have never given a bad review on a book I have posted. It may seem to anyone looking at this that I am either WAY too soft a critic or really lucky when picking books. 
+								While I was updating the books section this week it occurred to
+								me that I have never given a bad review on a book I have posted.
+								It may seem to anyone looking at this that I am either WAY too
+								soft a critic or really lucky when picking books.
 							</p>
 							<br />
 							<p>
-								I have definitely read books in the past that I disliked or even in rare cases did not finish (unfinished books have mostly been works of fiction) but when I started this whole experiment, I made a curated list of books to draw from that were all highly recommended on "best of" lists or by people I find interesting or admire. I add to the list as I come across mentions of books that I think would be interesting. When I am ready for a new book, I pick one that I think suits my current mood.
+								I have definitely read books in the past that I disliked or even
+								in rare cases did not finish (unfinished books have mostly been
+								works of fiction) but when I started this whole experiment, I
+								made a curated list of books to draw from that were all highly
+								recommended on "best of" lists or by people I find interesting
+								or admire. I add to the list as I come across mentions of books
+								that I think would be interesting. When I am ready for a new
+								book, I pick one that I think suits my current mood.
 							</p>
 							<br />
-							<p>It is also worth mentioning that I usually have three or four on the go at once and kind of rotate through them depending on my mood that day as well. Another reason for this is that sometimes I just need a break from a particularly difficult read to abosrb the material for a bit. When I add a book to the Books section, sometimes it is a book I have literally been ready for months.</p>
+							<p>
+								It is also worth mentioning that I usually have three or four on
+								the go at once and kind of rotate through them depending on my
+								mood that day as well. Another reason for this is that sometimes
+								I just need a break from a particularly difficult read to abosrb
+								the material for a bit. When I add a book to the Books section,
+								sometimes it is a book I have literally been ready for months.
+							</p>
 							<br />
-							
 
 							<div className='center'>
 								<span className='t-medium bold'>See ya next week!</span>
@@ -102,7 +163,7 @@ const Updates = () => {
 						</div>
 					</div>
 
-{/* Week 31 - Apr 17th 2023 */}
+					{/* Week 31 - Apr 17th 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 31 Update</p>
@@ -131,7 +192,7 @@ const Updates = () => {
 								feeling some pretty extreme social anxiety. While researching
 								bootcamps and mock interviews to get ready for my eventual
 								serious job search it became apparent that a skillset I was not
-								working on was actually coding with or in front of other people.
+								working on was coding with or in front of other people.
 							</p>
 							<br />
 							<p>
@@ -146,9 +207,9 @@ const Updates = () => {
 								Thankfully, even after only a few experiences, it has started
 								getting easier. The nerves only start to creep up a few minutes
 								before events as opposed to hours of stress leading up to it. As
-								with many things it seems the more I do it the less it will
-								affect me. Growth really does come from getting out of comfort
-								zones.
+								with many things, it seems the more I do it the less it will
+								affect me. Growth really does come from getting out of the
+								comfort zones.
 							</p>
 
 							<br />
@@ -171,11 +232,11 @@ const Updates = () => {
 								were fairly casual and basically a "get to know me" session. One
 								of them was a little more interested in what types of support
 								mechanisms I had to help cope with the inevitable stresses and
-								frustrations that will come with the rogorous learning tempo. I
-								liked that they asked about that. It made me feel that one, they
-								cared about the mental health of their students, and two, that
-								their ciriculum is sufficiently diffcult to prepare me well.
-								Both bootcamps invited me to the next stage of the admissions
+								frustrations that will come with the rigorous learning tempo. I
+								liked that they asked about that. It made me feel that they
+								cared about the mental health of their students and that their
+								curriculum is sufficiently difficult to prepare me well. Both
+								bootcamps invited me to the next stage of the admissions
 								process.
 							</p>
 							<br />
@@ -201,8 +262,8 @@ const Updates = () => {
 
 							<p>
 								I have decided it is time to add a more focused routine to my
-								resistance training. Ill post up a detailed outline in the next
-								couple weeks. I will be training differently than I never did
+								resistance training. I'll post up a detailed outline in the next
+								couple weeks. I will be training differently than I ever did
 								when I was younger. Which, I hate to admit, makes sense at my
 								age. My concerns are becoming more about longevity rather than
 								size and one rep maxes.
@@ -210,11 +271,11 @@ const Updates = () => {
 							<br />
 							<p>
 								Time under tension is just a fancy way of saying how long your
-								muscle was flexed during any given repitition of an exercise.
+								muscle was flexed during any given repetition of an exercise.
 								So, slowing the movement down increases the time under tension.
 								While there are plenty of studies that indicate this can be an
-								affect way to build muscle mass, I will be using moderate to
-								light weights to hopefully increase endurance while ecouraging
+								effective way to build muscle mass, I will be using moderate to
+								light weights to hopefully increase endurance while encouraging
 								long and lean muscle growth.
 							</p>
 							<br />
@@ -230,7 +291,7 @@ const Updates = () => {
 							</div>
 						</div>
 					</div>
-
+					{/* Week 30 - Apr 10th 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 30 Update</p>
@@ -255,20 +316,20 @@ const Updates = () => {
 
 							<p>
 								While technically true, somewhat misleading. While looking
-								through online learning resources and websites I came across a
-								recomendation to check out some of the free courses being
+								through online learning resources and websites, I came across a
+								recommendation to check out some of the free courses being
 								offered online from Harvard and a number of other Ivy League
 								schools in the US. There are actually a ton of them available
-								with the choice to audit completely for free or for reasonable
-								fees you can obtain certificates at the end once the course is
+								with the choice to audit completely for free or, for reasonable
+								fees, you can obtain certificates at the end once the course is
 								complete.
 							</p>
 							<br />
 							<p>
 								I landed on an Introduction to Computer Science Course (CS50) at
-								Harvard. It is extremely high quality and the professor is very
+								Harvard. It is extremely high quality, and the professor is very
 								engaging. There are automated unit tests and projects to
-								complete very week. I have already learned some things in week
+								complete every week. I have already learned some things in week
 								one that I may never actually apply in a professional
 								environment but I think gaining a better understanding of all
 								the things that were built and re-built to get us to where we
@@ -292,8 +353,8 @@ const Updates = () => {
 								seem to suffer quite as bad a hit, so some of that weight is
 								just water and hopefully I can shed some of it pretty quick.
 								Cardio took a real hit as well. I had been injured for a couple
-								weeks before I stopped everything so it was nearly a month and a
-								half not being on the treadmill. As for coding my brain was
+								weeks before I stopped everything, so it was nearly a month and
+								a half not being on the treadmill. As for coding my brain was
 								definitely a little foggy but even after a week of steady coding
 								every day my confidence is returning quickly.
 							</p>
@@ -323,9 +384,9 @@ const Updates = () => {
 								thing. She has been extremely supportive of this move and is
 								happy to see me pursuing something I have always talked about. I
 								think after 20+ years she would be pretty happy to not hear me
-								talk about it any more! Finance concerns are a real thing
-								though. And that also weighs into the selection process. There
-								is quite a difference between camps price wise.
+								talk about it anymore! Finance concerns are a real thing though.
+								And that also weighs into the selection process. There is quite
+								a difference between camps price wise.
 							</p>
 							<br />
 							<p>More updates to come on this!</p>
@@ -336,7 +397,7 @@ const Updates = () => {
 							</div>
 						</div>
 					</div>
-
+					{/* Week 29 - Apr 3rd 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 29 Update</p>
@@ -367,12 +428,12 @@ const Updates = () => {
 							</p>
 							<br />
 							<p>
-								While really having a look over my code and things I had built
-								one of the things I realized is that while I have built up a
-								real string understanding of most the underlying concepts and
-								requirements to build a full stack web application, I am pretty
-								"messy". So far, all my learning has come from a variety of
-								sources (YouTube, Udemy, Codecademy) and not all what I would
+								While really having a look over my code and the things I had
+								built one of the things I realized is that while I have built up
+								a real string understanding of most of the underlying concepts
+								and requirements to build a full stack web application, I am
+								pretty "messy". So far, all my learning has come from a variety
+								of sources (YouTube, Udemy, Codecademy) and not all what I would
 								call up to date. In short, I lack a real grounding in "best
 								practices".
 							</p>
@@ -380,7 +441,7 @@ const Updates = () => {
 							<p>
 								Also, I am getting close to the point where I will want to
 								seriously start pursuing employment opportunities. I have known
-								from the beginning this part would be challenging given my lack
+								from the beginning, this part would be challenging given my lack
 								of formal education. It can definitely be done but it is a
 								hurdle I will face for sure.
 							</p>
@@ -403,20 +464,20 @@ const Updates = () => {
 							/>
 							<p>
 								One of the things that I dropped completely was my efforts on
-								Twitter. It has been a long time since I have had postive
+								Twitter. It has been a long time since I have had positive
 								feelings about social media in general, mostly because of my own
-								addictive personality and how much I can get sucked in to the
-								endless swiping. In fact it has been almost a year since I have
-								had a cell phone. After the initial shock and withdrawl it was
+								addictive personality and how much I can get sucked into the
+								endless swiping. In fact, it has been almost a year since I have
+								had a cell phone. After the initial shock and withdrawal it was
 								and is pretty liberating not to constantly find myself
 								mindlessly scrolling through algo-generated "soft" content.
-								Having said this, they can being very powerful tools when used
-								respoisibly.
+								Having said this, they can be very powerful tools when used
+								responsibly.
 							</p>
 							<br />
 							<p>
 								I still believe there is great value in using a platform such as
-								twitter to connect with and build a reputation within the tech
+								Twitter to connect with and build a reputation within the tech
 								community that I am trying to break into. During my break my
 								follower count actually dropped by 10% - Hopefully just Elon
 								continuing to sweep out the bots. I have started to tweet again
@@ -441,30 +502,31 @@ const Updates = () => {
 								degrees since I started drinking them in my 20's. I have
 								mentioned it in other updates but I will say it again, I have a
 								very addictive, all in, personality. It applies to everything.
-								Sometmes it can be a great benefit, as long as I channel it
-								properly. For instance while learning to code it has been a
+								Sometimes it can be a great benefit, as long as I channel it
+								properly. For instance, while learning to code it has been a
 								massive contributor to the speed that I have been learning at.
 								When it comes to energy drinks it has not been good for me.
 							</p>
 							<br />
 							<p>
-								In the spirit of celebrating wins I am now a little over two
-								months without having one! That is probably the longest I ever
-								gone without one since I first started drinking them. I will not
-								go into detail about how much I have used them at times but
-								suffice it to say it was clearly unhealthy.
+								In the spirit of celebrating wins, I am now a little over two
+								months without having one! That is probably the longest I have
+								ever gone without one since I first started drinking them. I
+								will not go into detail about how much I have used them at times
+								but suffice it to say it was clearly unhealthy.
 							</p>
 							<br />
 							<p>
-								I do find the type of tempo I am keeping it takes work and help
-								to maintain focus and energy leavels. This can come from a lot
-								of different sources starting with a clean diet, exercise, less
-								alcohol and better sleep. Those will be my cornerstones but I
-								will, much to my absolute disgust, introduce tea into my daily
-								routine. Since I was a child I just cannot stand the sight or
-								smell of it. Having said that there are numerous benefits to
-								including teas into my diet, not the least of which is helping
-								to regulate energy levels throughout the day. *gag*
+								I do find that with the type of tempo I am keeping it takes work
+								and help to maintain focus and energy levels. This can come
+								from a lot of different sources starting with a clean diet,
+								exercise, less alcohol and better sleep. Those will be my
+								cornerstones but I will, much to my absolute disgust, introduce
+								tea into my daily routine. Since I was a child, I just cannot
+								stand the sight or the smell of it. Having said that there are
+								numerous benefits to including teas into my diet, not the least
+								of which is helping to regulate energy levels throughout the
+								day. *gag*
 							</p>
 							<br />
 							<div className='center'>
@@ -472,7 +534,7 @@ const Updates = () => {
 							</div>
 						</div>
 					</div>
-
+					{/* Week 28 - Mar 27th 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 28 Update</p>
@@ -533,7 +595,7 @@ const Updates = () => {
 							</div>
 						</div>
 					</div>
-
+					{/* Week 24 - Feb 27th 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 24 Update</p>
@@ -585,7 +647,7 @@ const Updates = () => {
 							</div>
 						</div>
 					</div>
-
+					{/* Week 23 - Feb 20th 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 23 Update</p>
@@ -646,7 +708,7 @@ const Updates = () => {
 							</div>
 						</div>
 					</div>
-
+					{/* Week 22 - Feb 13th 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
 							<p className='t-medium bold'>Week 22 Update</p>
