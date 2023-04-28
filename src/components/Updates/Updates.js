@@ -46,10 +46,10 @@ const Updates = () => {
 							<br />
 
 							<p>
-								It is not quite as catchy a song when you sing it like that... Last week I decided to start a C++ course. I did a little coding in C++ when I was super young and it actually feels a little nostalgic! I thought broadening my language base would be good and C++ is a great one to have in the tool belt.
+								It is not quite as catchy a song when you sing it like that... Last week I decided to start a C++ course. I did a little coding in C++ when I was super young, and it actually feels a little nostalgic! I thought broadening my language base would be good and C++ is a great one to have in the tool belt.
 								</p>
 								<br />
-								<p>C++ is a high-level programming language used to develop software for a variety of applications. It is an object-oriented language that was designed to be a faster and more efficient alternative to the original C programming language. It is widely used in developing operating systems (windows), web browsers(Chrome and Safari for example), and video games.
+								<p>C++ is a high-level programming language used to develop software for a variety of applications. It is an object-oriented language that was designed to be a faster and more efficient alternative to the original C programming language. It is widely used in developing operating systems (Windows), web browsers (Chrome and Safari for example), and video games.
 							</p>
 							<br />
 							<p>One of the key features of C++ is its ability to work with memory directly, which allows programmers to write code that is highly optimized for performance. It also has a large standard library of pre-written code that can be used to perform common tasks, such as input/output operations, string manipulation, and math functions. C++ is a versatile language that can be used for a wide range of programming tasks, from small scripts to large-scale software development projects.</p>
@@ -64,17 +64,17 @@ const Updates = () => {
 							
 							
 							<p>
-								My first technical interviews are done. The amount of anxiety I felt leading up to the last one was almost debilitating. I think it was because it was for my first choice in bootcamps, I knew the content would be challenging and I also know that it has a high failure rate on first attempts. 
+								My first technical interviews are done. The amount of anxiety I felt leading up to the last one was almost debilitating. I think it was because it was my first choice in bootcamps, I knew the content would be challenging and I also know that it has a high failure rate on first attempts. 
 							</p>
 							<br />
 							<p>
-							I am not sure I would even describe one of them as a technical interview. It was more of a basic test of logical thinking and problem solving skills. There was no actual coding involved. I am positive I have passed that one and will be offered a spot in the bootcamp.
+							I am not sure I would even describe one of them as a technical interview. It was more of a basic test of logical thinking and problem-solving skills. There was no actual coding involved. I am positive I have passed that one and will be offered a spot in the bootcamp.
 							</p>
 							<br /><p>
-							The next one I did was a different animal. It was probably a little more representative of what a technical interview with a potential employer would look and feel like. For the first ten or fiften minutes I was having trouble remembering basic syntax and built in functions. Once I completed a few of the problems and got the nerves settled it was getting better.
+							The next one I did was a different animal. It was probably a little more representative of what a technical interview with a potential employer would look and feel like. For the first ten or fifteen minutes I was having trouble remembering basic syntax and built in functions. Once I completed a few of the problems and got the nerves settled it was getting better.
 							</p>
 							<br />
-							<p>The bootcamp I am leaning towards places a high value on their candidates being able to cummincate effectively while they code. Going in I knew this would probably be my weak spot as I have never done it. All my coding conversations have always been in my head and silent! While I completed all the actual problems without help or direction I know that my communication could probably have been better. I think I will probably be asked to do a second round technical interview so in the meantime I will focus hard on getting some pari programming in and really work on my communication skills.</p>
+							<p>The bootcamp I am leaning towards places a high value on their candidates being able to communicate effectively while they code. Going in I knew this would probably be my weak spot as I have never done it. All my coding conversations have always been in my head and silent! While I completed all the actual problems without help or direction, I know that my communication could probably have been better. I think I will probably be asked to do a second round technical interview so in the meantime I will focus hard on getting some pari programming in and really work on my communication skills.</p>
 							<br />
 							<p className='t-medium bold center'>I Love Every Book I Read.</p>
 							<br />
@@ -85,11 +85,11 @@ const Updates = () => {
 							/>
 
 							<p>
-								While I was updating the books section this week it occured to me that I have never given a bad review on a book I have posted. It may seem to anyone looking at this that I am either WAY to soft a critic or really lucky when picing books. 
+								While I was updating the books section this week it occurred to me that I have never given a bad review on a book I have posted. It may seem to anyone looking at this that I am either WAY too soft a critic or really lucky when picking books. 
 							</p>
 							<br />
 							<p>
-								I have definitely read books in the past that I disliked or even in rare cases did not finish (unfinished books have mostly been works of fiction) but when I started this whole experiment I made a currated list of books to draw from that were all highly recommended on "best of" lists or by people I find interesting or admire. I add to the list as I come accross mentions of books that I think would be interesting. When I am ready for a new book I pick one that I think suits my current mood.
+								I have definitely read books in the past that I disliked or even in rare cases did not finish (unfinished books have mostly been works of fiction) but when I started this whole experiment, I made a curated list of books to draw from that were all highly recommended on "best of" lists or by people I find interesting or admire. I add to the list as I come across mentions of books that I think would be interesting. When I am ready for a new book, I pick one that I think suits my current mood.
 							</p>
 							<br />
 							<p>It is also worth mentioning that I usually have three or four on the go at once and kind of rotate through them depending on my mood that day as well. Another reason for this is that sometimes I just need a break from a particularly difficult read to abosrb the material for a bit. When I add a book to the Books section, sometimes it is a book I have literally been ready for months.</p>
