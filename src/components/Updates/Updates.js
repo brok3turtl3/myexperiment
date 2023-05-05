@@ -25,10 +25,10 @@ const Updates = () => {
 					{/* Week 33 - May 1st 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
-							<p className='t-medium bold'>Week 32 Update</p>
+							<p className='t-medium bold'>Week 33 Update</p>
 							<br />
 
-							<p className='t-medium bold pb1'>Apr 24th, 2023</p>
+							<p className='t-medium bold pb1'>May 1st, 2023</p>
 						</div>
 
 						<hr />
