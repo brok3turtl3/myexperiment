@@ -22,6 +22,114 @@ const Updates = () => {
 						</p>
 					</div>
 
+					{/* Week 33 - May 1st 2023 */}
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 32 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>Apr 24th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/05-01/shouldersofgiants.jpg'
+									alt='small student with telescope standing on a large student '
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>On the Shoulders of Giants</p>
+							<br />
+
+							<p>
+								As someone who is already familiar with coding and has a basic
+								understanding of creating applications, I have recently been enjoying exploring the history of computer science and the evolution of
+								technology. From the earliest programming languages like FORTRAN
+								and COBOL to modern-day languages like Python and JavaScript,
+								it is interesting to see how far we have come and how much we have
+								achieved.
+							</p>
+							<br />
+							<p>
+								One of the most significant benefits of learning computer
+								science is the ability to create solutions to real-world
+								problems. Whether it is developing an app that simplifies a
+								complex process or building a website that connects people from
+								all over the world, coding provides a powerful tool for
+								innovation and change. Additionally, the logical thinking and
+								problem-solving skills that come with programming are highly
+								transferable and can be applied to a wide range of industries
+								and fields.
+							</p>
+							<br />
+							<p>
+								Isaac Newton's quote, "If I have seen further, it is by standing
+								on the shoulders of giants.", is especially relevant in the world
+								of coding. The technology we all enjoy today are the result of the
+								work of countless programmers and developers who came
+								before us. As we continue to build on their legacy and make new
+								breakthroughs, we are constantly standing on the shoulders of
+								giants, and the possibilities for what we can achieve are
+								endless. I am so excited to become a part of that.
+							</p>
+							<br />
+							<p className='t-medium bold center'>
+								This One Melts My Brain!
+							</p>
+							<br />
+							<img
+								src='./images/updateImages/05-01/recursion.jpg'
+								alt='meme about recursion'
+								className='right'
+							/>
+
+							<p>
+								Recursion. A classic coding concept that has been so tough to wrap my brain around. I think I finally have a decent handle on basic recursion patterns but it will take a lot more practice to become competent with using it in real world settings.
+							</p>
+							<br />
+							<p>
+							So, what exactly is recursion? It is basically a coding technique where a function calls itself. Sounds simple enough but it is like a never-ending loop that can leave your brain feeling like a pretzel trying to follow the code or debug. It can be so easy to set it up wrong and end up with bad results or infinite loops that just crash your application. If you have ever watched the movie "Inception" and remember how confusing it was getting when they are a few levels deep into the dreams then you have a feeling of what recursion can be like.
+							</p>
+							<br />
+							<p>
+								I do not think I will spend too much more time on it for now. For the languages I am focused on for now it is not commonly used. The way Javascript was built it is not optimised to use recursion and other methods of iteration are more often than not more memory efficient. 
+							</p>
+							<br />
+							<p>
+							I do not think I will spend too much more time on it for now. For the languages I am focused on for now it is not commonly used. The way Javascript was built it is not optimised to use recursion and other methods of iteration are more often than not more memory efficient. 
+							</p>
+							<br />
+							<p className='t-medium bold center'>Third Time's a Charm!</p>
+							<br />
+							<img
+								src='./images/updateImages/05-01/testfail.webp'
+								alt='Captain Picard with his head in his hands'
+								className='left'
+							/>
+
+							<p>
+								So, for the bootcamp that I am focused on, my feedback was very positive. Usually there is a wait of 3 - 4 weeks before they let you test again but the let me schedule my next interview right away. It boiled down to not having enough time to demonstrate proficiency in all the areas they need to test on. Object oriented programming, or OOP, is what I need to work with.
+							</p>
+							<br />
+							<p>
+								Today I did my second technical interview - and it was a DISASTER! I had hoped that having done one already that I would go into it a little more settled nerves wise. It was the opposite! The interviewer was really good to work with and I could tell felt a little bad for the trouble I was having. The way the interviews work is they give you problems to complete that are progressively harder. You cannot move on to the next one until the current one is complete. I spent more than half my time allotted ( 1 hr) on the first problem. Ouch!
+							</p>
+							<br />
+							<p>
+								The really disappointing part about it all is that I am super comfortable with the material we were covering. I have built hundreds of classes at this point and the question should have literally taken me 2 minutes to complete. Once I got passed it, I rolled through the next two problems easily and at the end of my interview asked to have a discussion about the process and I was able to speak to the subject a little more intelligently than what I had demonstrated. I am hoping they will invite me for a third attempt. 
+							</p>
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
 					{/* Week 32 - Apr 24th 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
@@ -518,15 +626,14 @@ const Updates = () => {
 							<br />
 							<p>
 								I do find that with the type of tempo I am keeping it takes work
-								and help to maintain focus and energy levels. This can come
-								from a lot of different sources starting with a clean diet,
-								exercise, less alcohol and better sleep. Those will be my
-								cornerstones but I will, much to my absolute disgust, introduce
-								tea into my daily routine. Since I was a child, I just cannot
-								stand the sight or the smell of it. Having said that there are
-								numerous benefits to including teas into my diet, not the least
-								of which is helping to regulate energy levels throughout the
-								day. *gag*
+								and help to maintain focus and energy levels. This can come from
+								a lot of different sources starting with a clean diet, exercise,
+								less alcohol and better sleep. Those will be my cornerstones but
+								I will, much to my absolute disgust, introduce tea into my daily
+								routine. Since I was a child, I just cannot stand the sight or
+								the smell of it. Having said that there are numerous benefits to
+								including teas into my diet, not the least of which is helping
+								to regulate energy levels throughout the day. *gag*
 							</p>
 							<br />
 							<div className='center'>
