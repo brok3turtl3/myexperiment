@@ -22,6 +22,127 @@ const Updates = () => {
 						</p>
 					</div>
 
+					{/* Week 35 - May 15th 2023 */}
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 35 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>May 15th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/05-15/waiting.jpg'
+									alt='man waiting by a railroad '
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>Patiently Waiting Is Not My Superpower!</p>
+							<br />
+
+							<p>
+								My new approach seemed to work well. I went into my third, and last, interview looking to have fun and enjoy the experience for what it is was. Thankfully I had an interviewer that was super easy to work with. We had a few good laughs as we worked through the material. I left the session feeling fairly positive about the outcome.
+							</p>
+							<br />
+							<p>
+								Within a day the self-doubt started to creep in anxiety levels started to rise. Throughout this process, waiting for feedback has been one of the most uncomfortable parts. I work well with immediate and direct feedback. I like to fail quickly and iterate often. Waiting days for the results of anything can leave me feeling out of sorts. For the next few days, it felt like I was wearing a trench in our floors. Even my dog started acting weird and anxious.
+							</p>
+							<br />
+							<p>I got an email the next day asking to schedule a follow-up call for today. That would leave three more days of waiting and overthinking everything. I was literally reading into the punctuation style of the email to see if I could glean any type of deeper meaning. The next few days were progressively worse and then...</p>
+							
+							<br />
+							<p><strong>I GOT IN!</strong></p>
+							<br />
+							<p>I have been accepted to the Codesmith bootcamp. The lead instructor from the East Coast cohort called me today. He made me wait for the official news and at some points during his review of my interview I felt like maybe I didn't make it but eventually, he gave me the good news. My first choice would be to enroll with the East Coast cohort but it is waitlist only at this point (damn that second interview...) so I have been put on that and enrolled in the Central Cohort which starts on June 12th.</p>
+							<br />
+							<p>Looks like this is happening - Time to celebrate! 🍷🥳 </p>
+							<br />
+							
+							
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
+					{/* Week 34 - May 8th 2023 */}
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 34 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>May 8th, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/05-08/mind-killer.webp'
+									alt='small student with telescope standing on a large student '
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>Fear Is the Mind Killer.</p>
+							<br />
+
+							<p>
+								I received feedback on my second interview this week. Once again it went better than I had thought. Considering the complete fumble on the first question it was as good of a result as I could have hoped for. They have invited me to do a third interview.
+							</p>
+							<br />
+							<p>
+								For my next interview, we will continue with the OOP content. This time the interview will be conducted as a pair programming exercise. This means that my interviewer will be working with me collaboratively to move through the problems.
+							</p>
+							<br />
+							<p>If I think about where I have stumbled or had any issues at all it has been due to the anxiety I have been feeling from the pressure I have put on myself. This week I have decided to take a different approach to preparation for my final test. Instead of spending hours reviewing concepts and techniques that I already know, I am going to focus on mentally relaxing and going in with a different mindset. I'm just going to go in and have fun with my interviewer. I'll let you know how it goes!</p>
+							
+							<br />
+							<p className='t-medium bold center'>
+								Odds and Ends...
+							</p>
+							<br />
+							<img
+								src='./images/updateImages/05-08/oddsandends.jpg'
+								alt='drawer full of odds and ends'
+								className='left'
+							/>
+
+							<p>
+								This week the updates are going to be short. The bootcamp application process is taking up most of my focus and energy so to be honest did not make the time to prepare a proper update this week. I did want to quickly mention a few things that have been going on though.
+							</p>
+							<br />
+							<p>
+							A few weeks ago, I started working out a little heavier with dumbbells and started a more formal resistance training routine. The first few workouts were almost debilitating! It has been a LONG time since I have trained like that, and my muscles were not shy about letting me know! This week the body parts I worked on were recovered within 2-3 days which is perfect. The strength gains have been dramatic and feel good even though I know that will slow down. I must resist the urge to keep going heavier and heavier and stick to my plan.
+							</p>
+							<br />
+							<p>
+								The weather has really turned, and we are seeing green everywhere now. This time of year is always refreshing mentally for me and it couldn't come at a better time with all the stress from the interview process. The next month or so will be filled with yard work and fresh air while my wife and I get our lot ready for the summer. I will share some pics in a couple of weeks once it's not a total disaster!
+							</p>
+							<br />
+							<p>My weight has been kind of hovering in the same area. It's a crutch and an excuse but I am definitely one of those people that reaches for unhealthy food when dealing with anxiety. Overall, I am satisfied with not gaining a ton back while I go through this but once things are settled with the bootcamp application I will stop cutting myself that slack.</p>
+							<br />
+							<p>
+							Dogs are awesome. A quick shout out to our dog Fergus. Is there anything better for mental health than a dog? My little dude has been keeping me sane the last few weeks and always is ready to help me relax with a good chase around the house.
+							</p>
+							<br />
+							
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
 					{/* Week 33 - May 1st 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
@@ -69,7 +190,7 @@ const Updates = () => {
 							<p>
 								Isaac Newton's quote, "If I have seen further, it is by standing
 								on the shoulders of giants.", is especially relevant in the world
-								of coding. The technology we all enjoy today are the result of the
+								of coding. The technology we all enjoy today is the result of the
 								work of countless programmers and developers who came
 								before us. As we continue to build on their legacy and make new
 								breakthroughs, we are constantly standing on the shoulders of
@@ -88,19 +209,19 @@ const Updates = () => {
 							/>
 
 							<p>
-								Recursion. A classic coding concept that has been so tough to wrap my brain around. I think I finally have a decent handle on basic recursion patterns but it will take a lot more practice to become competent with using it in real world settings.
+								Recursion. A classic coding concept that has been so tough to wrap my brain around. I think I finally have a decent handle on basic recursion patterns, but it will take a lot more practice to become competent with using it in real-world settings.
 							</p>
 							<br />
 							<p>
-							So, what exactly is recursion? It is basically a coding technique where a function calls itself. Sounds simple enough but it is like a never-ending loop that can leave your brain feeling like a pretzel trying to follow the code or debug. It can be so easy to set it up wrong and end up with bad results or infinite loops that just crash your application. If you have ever watched the movie "Inception" and remember how confusing it was getting when they are a few levels deep into the dreams then you have a feeling of what recursion can be like.
+							So, what exactly is recursion? It is basically a coding technique where a function calls itself. Sounds simple enough but it is like a never-ending loop that can leave your brain feeling like a pretzel trying to follow the code or debug. It can be so easy to set it up wrong and end up with bad results or infinite loops that just crash your application. If you have ever watched the movie "Inception" and remember how confusing it was getting when they are a few levels deep into the dreams, then you have a feeling of what recursion can be like.
 							</p>
 							<br />
 							<p>
-								I do not think I will spend too much more time on it for now. For the languages I am focused on for now it is not commonly used. The way Javascript was built it is not optimised to use recursion and other methods of iteration are more often than not more memory efficient. 
+								I do not think I will spend too much more time on it for now. For the languages I am focused on now, it is not commonly used. The way JavaScript was built it is not optimized to use recursion and other methods of iteration are often more memory efficient. 
 							</p>
 							<br />
 							<p>
-							I do not think I will spend too much more time on it for now. For the languages I am focused on for now it is not commonly used. The way Javascript was built it is not optimised to use recursion and other methods of iteration are more often than not more memory efficient. 
+							I do not think I will spend too much more time on it for now. For the languages I am focused now, it is not commonly used. The way JavaScript was built it is not optimised to use recursion and other methods of iteration are often more memory efficient. 
 							</p>
 							<br />
 							<p className='t-medium bold center'>Third Time's a Charm!</p>
@@ -120,7 +241,7 @@ const Updates = () => {
 							</p>
 							<br />
 							<p>
-								The really disappointing part about it all is that I am super comfortable with the material we were covering. I have built hundreds of classes at this point and the question should have literally taken me 2 minutes to complete. Once I got passed it, I rolled through the next two problems easily and at the end of my interview asked to have a discussion about the process and I was able to speak to the subject a little more intelligently than what I had demonstrated. I am hoping they will invite me for a third attempt. 
+								The really disappointing part about it all is that I am super comfortable with the material we were covering. I have built hundreds of classes at this point and the question should have literally taken me 2 minutes to complete. Once I got passed it, I rolled through the next two problems easily and at the end of my interview asked to discuss the process and I was able to speak to the subject a little more intelligently than what I had demonstrated. I am hoping they will invite me for a third attempt. 
 							</p>
 							<br />
 

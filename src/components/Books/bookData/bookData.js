@@ -1,5 +1,31 @@
 export const books = [
 	{
+		title: 'The Name of the Wind',
+		author: 'Patrick Rothfuss',
+		genre: 'Fiction',
+		year: 2007,
+		date: 2023,
+		difficulty: '★',
+		rating: '★★★★★',
+		comments: `I needed a good fiction distraction this week and this author has been on my list for a while now. It did NOT disappoint! Magic, sword fights, good and evil.. What more do you need!? I hesitate to talk too much about fiction for fear of giving away the story but I will say I was pulled in within the first couple chapters and finished it in two days. The character building is second to none and I felt the mood of the scenes thoroughly. I am eager to read the next one and a little upset that the series is not finished...`,
+		coverPic: './images/bookImages/thenameofthewind.jpg',
+		ammazonLink:
+			'https://www.amazon.ca/Name-Wind-Kingkiller-Chronicle-Day/dp/0756404746/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=1685021699&sr=8-4',
+	},
+	{
+		title: 'The Self Illusion',
+		author: 'Bruce Hood',
+		genre: 'Science - Psychology',
+		year: 2012,
+		date: 2023,
+		difficulty: '★★★★',
+		rating: '★★★★★',
+		comments: `You may not be what or who you think you are! This was a thought provoking read on the topic of identity and what that is. The author argues that identity is basically an illusion created by our brains to give us a means to experience and interact with the world around us. It gets really interesting ( read as creepy ) when he starts to talk about how that would affect ideas like free will and personal responsiility.`,
+		coverPic: './images/bookImages/theselfillusion.jpg',
+		ammazonLink:
+			'https://www.amazon.ca/Self-Illusion-Bruce-Hood/dp/144340523X/ref=sr_1_1?keywords=the+self+illusion&qid=1685014288&sprefix=the+self+ill%2Caps%2C78&sr=8-1',
+	},
+	{
 		title: 'Crypto',
 		author: 'Stephen Levy',
 		genre: 'Science - Social Commentary',
