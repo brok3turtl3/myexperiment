@@ -22,6 +22,52 @@ const Updates = () => {
 						</p>
 					</div>
 
+					{/* Week 36 - May 22nd 2023 */}
+					<div className='update-card-container m2'>
+						<div className='update-banner'>
+							<p className='t-medium bold'>Week 36 Update</p>
+							<br />
+
+							<p className='t-medium bold pb1'>May 22nd, 2023</p>
+						</div>
+
+						<hr />
+
+						<div className='comments pt1'>
+							<div className='image-container'>
+								<img
+									src='./images/updateImages/05-22/yoda.png'
+									alt='Yoda concentrating '
+									className='center'
+								/>
+							</div>
+							<br />
+							<p className='t-medium bold center'>I Am Basically Yoda.</p>
+							<br />
+
+							<p>
+								I have been meditating to varying degrees for a couple of years now. When I started this experiment, I decided to really try and make it a consistent and cornerstone habit of my daily routine. There have been thousands of studies done on the effects of even short sessions of meditation when used effectively and consistently. It has been shown to improve mental, emotional, and physical well-being. By fostering mindfulness and improved focus it enhances cognitive functions, leading to better problem-solving skills and creativity. It promotes inner peace and tranquility, reducing stress and anxiety by lowering cortisol levels int he body. Regular meditation can also boost emotional resilience, helping people to manage negative emotions and improve mood. It has also been shown to have positive effects on blood pressure, quality of sleep and our immune systems.
+							</p>
+							<br />
+							<p>
+								It was much less when I started but I now spend 20 minutes daily in focused meditation. There are a few simple exercises that I rotate through. Every week I spend two sessions doing Mindful Breathing. This is also when I have been doing most of my training to increase my breath-hold time. Every week I also do two sessions of Body Scan Meditation. The rest of the sessions vary and every week or so I will try something new. Every so often you have these moments where you reach a new "state" or experience a new feeling or awareness. This week something really cool happened during one of my body scan sessions.
+							</p>
+							<br />
+							
+							<p>I get cramps occasionally. Some mild some brutal. The toes cramps are the worst! When it happens during meditation it can be particularly frustrating as it can shatter the focus I have built up. This week I had a toe cramp attack, and it was a bad one. Instead of doing what I usually do which is stop the meditation to deal with it, I move my body scan thoughts to the toe. Instead of massaging it out or trying to ignore the pain, I focused on it. Really trying to feel every part of the sensation. At first, it was difficult as the toe continued to cramp, and the pain increased but after a few seconds it started to numb, and the pain started to fade as the toe began to relax back to its normal position. A few seconds more and the toe had completely relaxed!</p>
+							<br />
+							<p>It may sound silly but what a completely exhilarating experience. I've always had to massage and hold my toes for minutes until the cramping subsides. I have had some really cool moments while meditating but this one was so physical and tangible. These experiences, at least for me so far, have been few and far between but when they happen it is definitely encouraging and leaves me with a strong sense of self improvement and gratification.</p>
+							<br />
+							
+							
+							<br />
+
+							<div className='center'>
+								<span className='t-medium bold'>See ya next week!</span>
+							</div>
+						</div>
+					</div>
+
 					{/* Week 35 - May 15th 2023 */}
 					<div className='update-card-container m2'>
 						<div className='update-banner'>
@@ -42,7 +88,7 @@ const Updates = () => {
 								/>
 							</div>
 							<br />
-							<p className='t-medium bold center'>Patiently Waiting Is Not My Superpower!</p>
+							<p className='t-medium bold center'>Patiently Waiting Is NOT My Superpower!</p>
 							<br />
 
 							<p>
@@ -50,7 +96,7 @@ const Updates = () => {
 							</p>
 							<br />
 							<p>
-								Within a day the self-doubt started to creep in anxiety levels started to rise. Throughout this process, waiting for feedback has been one of the most uncomfortable parts. I work well with immediate and direct feedback. I like to fail quickly and iterate often. Waiting days for the results of anything can leave me feeling out of sorts. For the next few days, it felt like I was wearing a trench in our floors. Even my dog started acting weird and anxious.
+								Within a day the self-doubt started to creep in and anxiety levels started to rise. Throughout this process, waiting for feedback has been one of the most uncomfortable parts. I work well with immediate and direct feedback. I like to fail quickly and iterate often. Waiting days for the results of anything can leave me feeling out of sorts. For the next few days, it felt like I was wearing a trench into our floors from all the pacing. Even my dog started acting weird and anxious.
 							</p>
 							<br />
 							<p>I got an email the next day asking to schedule a follow-up call for today. That would leave three more days of waiting and overthinking everything. I was literally reading into the punctuation style of the email to see if I could glean any type of deeper meaning. The next few days were progressively worse and then...</p>

@@ -1,5 +1,18 @@
 export const books = [
 	{
+		title: 'The Wise Man\'s Fear',
+		author: 'Patrick Rothfuss',
+		genre: 'Fiction',
+		year: 2012,
+		date: 2023,
+		difficulty: '★',
+		rating: '★★★★★',
+		comments: `The second book went faster than the first! I basically read for two days straight. It took five years between the first and the second book but this one has been out for 11 years and no third in site. The author has recently commented that the third book is going more slowly than he would like and the most recent specualtion in 2024. In the meantime he has written another book as a kind of spin off about one of the more curious characters in the story and I think I will get that next!`,
+		coverPic: './images/bookImages/thewisemansfear.jpg',
+		ammazonLink:
+			'https://www.amazon.ca/Wise-Mans-Fear-Patrick-Rothfuss/dp/0756407125/ref=pd_lutyp_d_ci_mcx_mr_typ_d_sccl_2_2/131-6376192-8975257?pd_rd_w=naWLJ&content-id=amzn1.sym.14b1870b-aff2-4381-bdd6-2c248259ec0d&pf_rd_p=14b1870b-aff2-4381-bdd6-2c248259ec0d&pf_rd_r=3FXSSXWD4CXEGK3G5ZA7&pd_rd_wg=zZlMp&pd_rd_r=4b00217d-8c40-4c5c-9112-1cc5d39fbc4e&pd_rd_i=0756407125&psc=1',
+	},
+	{
 		title: 'The Name of the Wind',
 		author: 'Patrick Rothfuss',
 		genre: 'Fiction',
@@ -7,7 +20,7 @@ export const books = [
 		date: 2023,
 		difficulty: '★',
 		rating: '★★★★★',
-		comments: `I needed a good fiction distraction this week and this author has been on my list for a while now. It did NOT disappoint! Magic, sword fights, good and evil.. What more do you need!? I hesitate to talk too much about fiction for fear of giving away the story but I will say I was pulled in within the first couple chapters and finished it in two days. The character building is second to none and I felt the mood of the scenes thoroughly. I am eager to read the next one and a little upset that the series is not finished...`,
+		comments: `I needed a good fiction distraction this week and this author has been on my list for a while now. It did NOT disappoint! Magic, sword fights, good and evil.. What more do you need!? I hesitate to talk too much about fiction for fear of giving away the story but I will say I was pulled in within the first couple chapters and finished it in three days. The character building is second to none and I felt the mood of the scenes thoroughly. I am eager to read the next one and a little upset that the series is not finished...`,
 		coverPic: './images/bookImages/thenameofthewind.jpg',
 		ammazonLink:
 			'https://www.amazon.ca/Name-Wind-Kingkiller-Chronicle-Day/dp/0756404746/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=1685021699&sr=8-4',
